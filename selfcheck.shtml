@@ -1,0 +1,37 @@
+<!--#include virtual="header.html" -->
+    <!-- THE ACTUAL PAGE CONTENTS START HERE // -->
+
+<script src="scripts/md5.js"></script>
+<script type="text/javascript">
+
+function getQuery()
+{
+  var textBox = document.getElementById('suid').value;
+
+  var hash = CryptoJS.MD5(String(textBox));
+  var prefix =
+ 'https://spreadsheets.google.com/tq?tqx=out:html&key=164fQL0dQI4vm3rtJ8IzdSQ4D6tWA0T0RgjKv2rNsTiU&tq=';
+  var query = encodeURIComponent('SELECT B, C WHERE A MATCHES \"' + hash +
+  '\"');
+  document.getElementById('result').src = prefix+query;
+}
+
+</script>
+
+<form action="javascript:getQuery()">
+   <p><b>Enter your SUID number: </b></p>
+   <input type="text" id="suid"> </br> </br>
+   <input type="submit" value="Check">
+</form>
+
+<p>Nothing will be displayed for incorrect SUIDs!</p>
+
+<p>
+Report your participation <a href="participation.shtml">here.</a>
+The policy is described in the <a href="grading.shtml">grading page</a>.
+</p>
+
+
+<iframe height="100%" width="100%" frameBorder="no" id="result"></iframe>
+
+</body></html>

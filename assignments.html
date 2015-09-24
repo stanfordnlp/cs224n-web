@@ -1,0 +1,394 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+
+  <head>
+    <title>CS 224N / Ling 284 Assignments</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link href="http://www.stanford.edu/class/cs224n/cs224n.css" rel="stylesheet" type="text/css">
+  </head>
+
+  <body>
+
+    <table border="0" width="100%" cellpadding="5" cellspacing="0" class="navbar">
+      <tr height="100">
+
+        <td width="100" align="center" valign="center">
+          <a href="http://nlp.stanford.edu/">
+            <img src="http://www.stanford.edu/class/cs224n/img/nlp-logo-navbar.jpg" border="0" align="center">
+          </a>
+        </td>
+  
+        <td width="*" align="left" valign="center">
+          <table border="0" cellpadding="5" cellspacing="0">
+  
+            <tr height="25">
+              <td>
+                <p>&nbsp;</p>
+              </td>
+            </tr>
+  
+            <tr height="50">
+              <td align="left" valign="center">
+                <p class="title">
+                  CS 224N / Ling 284 &nbsp;&mdash;&nbsp;
+                  Natural Language Processing
+                </p>
+              </td>
+            </tr>
+  
+            <tr height="25"> 
+              <td align="left" valign="center">
+                <p class="navbar">
+  
+                  <a class="navbar" href="index.html">home</a>
+                  &middot;
+  
+                  <a class="navbar" href="syllabus.html">syllabus/handouts</a>
+                  &middot;
+  
+		  <a class="navbar" href="assignments.html">assignments</a>
+                  &middot;
+  
+                  <a class="navbar" href="index.html#links">links</a>
+		  &middot;
+
+		  <a class="navbar" href="faq.html">FAQs</a>
+		  &middot;
+
+                  <a class="navbar" href="help.html">help/contact</a>
+  
+                </p>
+              </td>
+            </tr>
+  
+          </table>
+        </td>
+        
+      </tr>
+    </table>
+
+    <img src="http://www.stanford.edu/class/cs224n/img/spacer.gif" width="10" height="10" alt=""/>
+    
+    
+    <!-- THE ACTUAL PAGE CONTENTS START HERE //-->
+    
+    <table width="75%" cellpadding="10" cellspacing="0">
+      <tr valign="top">
+        
+        <!-- left bar: main content -->
+        <td>
+          
+          <p>
+            This page describes assignments and grading policies for CS224N / Ling 284:
+            <ul>
+              <li><a href="#grades">Grading</a></li>
+              <li><a href="#quizzes">Quizzes</a></li>
+              <li>
+                <a href="#pa">Programming Assignments</a>:
+                <a href="#pa1">PA1</a>,
+                <a href="#pa2">PA2</a>,
+                <a href="#pa3">PA3</a>
+              </li>
+              <li><a href="#fp">Final Project</a></li>
+              <li><a href="#collab">Collaboration Policy</a></li>
+              <li><a href="#elec">Electronic Submission</a></li>
+              <li><a href="#late">Late Day Policy</a></li>
+              <li><a href="#regrading">Regrading requests</a></li>
+            </ul>
+          </p>
+          
+          <!-- ------------------------------------------------------- -->
+          
+          <br/>
+          <a name="grades"><h1>Grading</h1></a>
+          
+          <p>
+            Course grades will be based 60% on the three <a
+            href="#pa">programming assignments</a> (20% each), 34% on the <a
+            href="#fp">final project</a>, and 6% on the quizzes (0.33% for
+            each).
+          </p>
+
+
+
+          <!-- ------------------------------------------------------- -->
+          
+          <br/>
+          <a name="quizzes"><h1>Quizzes</h1></a>
+
+          <p>
+            During each class, a question will be asked in class, related to the
+            topics covered that day. The response to each question determines
+            0.33% of your final grade, totaling to 6% over all 18 lectures
+          scheduled for this quarter. Use the quiz submission script at <a href="http://www.stanford.edu/class/cs224n/quiz_submissions/quiz.html">Quiz Submissions</a>.</p>
+
+          <p>
+            The responses for any week's classes must reach the course staff by
+            5pm on the following Sunday. (E.g., responses to the questions asked
+            in class on Monday 1/10/11 and/or Wednesday 1/12/11 must reach the
+            course staff by 5pm on Sunday 1/16/11).          </p>
+
+          <!-- ------------------------------------------------------- --><br/>
+          <a name="pa"><h1>Programming Assignments</h1></a>
+          
+          <p>
+            There will be three substantial programming assignments, each
+            exploring a core NLP task.
+          </p>
+
+          <dl>
+
+            <dt>
+              <a name="pa1" href="pa/pa1.pdf">
+                PA1: N-Gram Language Models
+              </a>
+            </dt>
+            <dd>
+              We'll build a language model based on <i>n</i>-gram statistics
+              estimated from a large corpus, and test our model's ability to
+              help with a speech recognition task.  (Due Wednesday 1/19/11.)
+            </dd>
+
+            <dt>
+              <a name="pa2" href="pa/pa2.pdf">
+                PA2: Word Alignment Models for Machine Translation
+              </a>
+            </dt>
+            <dd>
+              We'll build word alignment models based on IBM models 1 and 2.  It
+              will be trained and tested on the Hansard corpus, consisting of
+              parallel English and French sentences.  Paste in your language
+              model from PA1, and with the provided Greedy Decoder, you have a
+              complete statistical machine translation system, to try out on the
+              provided French, German, and Spanish corpora.  (Due Wednesday
+              2/2/11.)
+            </dd>
+
+            <dt>
+              <a name="pa3" href="pa/pa3.pdf">
+                PA3: Maximum Entropy Markov Models & Treebank Parsing
+              </a>
+            </dt>
+            <dd>
+              This assignment looks at named entity recognition and parsing. The
+              aim is to examine whether pre-chunking of named entities can
+              improve the performance of a statistical parser trained on
+              financial newswire text when applied to the task of parsing
+              biomedical research articles. You will build a maximum entropy
+              classifier, which will be incorporated into a maximum entropy
+              Markov model for doing named entity recognition on biomedical
+              text. You will also implement the parsing algorithm for a broad
+              coverage statistical treebank parser.  We have included in the
+              support code the ability to chunk entities into a single word, and
+              then to pass this chunked sentence to the parser, so that you can
+              then informally compare the performance of the parser on chunked
+              and unchunked input.  (Due Wednesday 2/16/11 - deadline extended to 11:59pm PST.)
+            </dd>
+
+          </dl>
+
+
+      <!-- ------------------------------------------------------- -->
+
+      <br/>
+      <a name="fp"><h1>Final Project</h1></a>
+
+      <p>
+        In addition, there will be a final programming project on a topic of
+        your own choosing.  See the <a
+        href="http://www.stanford.edu/class/cs224n/handouts/cs224n-fp.pdf">final
+        project guide</a> for more information.
+      </p>
+
+      <p>
+        A short, ungraded project proposal will be due on Wednesday 2/9/11.
+        Final project write-ups will be due on Wednesday 3/9/11.  Students will
+        give short project presentations on Thursday 3/17/11, from 12:15pm to
+        3:15pm.
+      </p>
+
+      <p>
+        You may find it helpful to look at <a
+        href="http://nlp.stanford.edu/courses/cs224n/">final projects from
+        previous years</a>.
+      </p>
+
+
+      <!-- ------------------------------------------------------- -->
+
+      <br/>
+      <a name="collab"><h1>Collaboration Policy</h1></a>
+
+      <p>
+        For both the programming assignments and final project, you're free
+        to work alone, but you're also allowed (and indeed encouraged) to
+        work in teams.  This means developing ideas together, writing code
+        together, and submitting a joint report.
+      </p>
+
+      <ul>
+        <li>
+          For the <a href="#pa">programming assignments</a>, only two-person
+          teams are allowed.
+        </li>
+        <li>
+          For the <a href="#fp">final project</a>, teams of up to three
+          people are allowed.
+        </li>
+      </ul>
+
+      <p>
+        However, if you collaborate, your submission <i>must include a
+        statement describing the contributions of each collaborator</i>.
+        For example, "We did the entire project as pair programming over
+        several late nights in our dorm rooms".  Or, "Sue built the initial
+        parser, while Joe worked on improving parse quality through the use
+        of features and on improving runtime speed by profiling."
+      </p>
+
+      <p>
+        Ordinarily, all team members will receive the same grade for an
+        assignment&mdash;though we reserve the right, in case of egregiously
+        unequal contributions, to assign different grades to different team
+        members.
+      </p>
+
+      <p>
+        Please ask if you have any questions about the collaboration
+        policy, and make sure you adhere to it.
+      </p>
+
+
+      <!-- ------------------------------------------------------- -->
+
+      <br/>
+      <a name="elec"><h1>Electronic Submission</h1></a>
+
+      <p>
+        For each programming assignment and for the final project, you'll
+        submit your program using a Unix script that we've prepared.
+        To submit your program, first put all the files to be submitted in
+        one directory on a Leland machine (or any machine from which you
+        can access the Leland AFS filesystem).  This should include all
+        source code files, but should not include compiled class files or
+        large data files.  Normally, your submission directory will have a
+        subdirectory named <tt>src</tt> which contains all your source
+        code.  When you're ready to submit, type:
+      </p>
+
+      <blockquote>
+        <tt>/afs/ir/class/cs224n/bin/submit-pa1</tt>
+      </blockquote>
+
+      <p>
+        (Or <tt>submit-pa2</tt>, or <tt>submit-pa2</tt>, or
+        <tt>submit-fp</tt>, as appropriate.) This will (recursively) copy
+        everything in <i>your</i> submission directory into the official
+        submission directory for the class.  If you need to resubmit it
+        type
+      </p>
+
+      <blockquote>
+        <tt>/afs/ir/class/cs224n/bin/submit-pa1 -replace</tt>
+      </blockquote>
+
+      <p>
+        We will compile and run your program on the Leland systems, using
+        <tt>ant</tt> and our standard <tt>build.xml</tt> to compile, and
+        using <tt>java</tt> to run.  So, please make sure your program
+        compiles and runs without difficulty on the Leland machines.  If
+        there's anything special we need to know about compiling or running
+        your program, please include a <tt>README</tt> file with your
+        submission.  Your code doesn't have to be beautiful but we should
+        be able to scan it and figure out what you did without too much
+        pain.
+      </p>
+
+      <!-- ------------------------------------------------------- -->
+
+      <br/>
+      <a name="late"><h1>Late Day Policy</h1></a>
+
+      <p>
+        All assignments are due at 5pm on the assigned due date.  A grading
+        penalty will be applied to late assignments.  We recognize that
+        students may face unusual circumstances and require some
+        flexibility in the course of the quarter; therefore each student
+        will be granted a total of
+        <i>five free late (calendar) days</i> to use as he or she sees
+        fit. Once these late days are exhausted, any assignment turned in
+        late will be penalized 10% per late day. Each 24 hours or part
+        thereof that a assignment is late uses up one full late day.
+      </p>
+
+      <p>
+        Late days may be used for the final project report; however, <i>no
+        final project reports will be accepted after
+        Monday 3/14/11</i>.
+      </p>
+
+      <p>
+	To hand in the report late, there is a hand-in box in the basement of Gates, near the bottom of the A-wing stairwell.
+	You can find directions to it <a href="submissionbox/tour.html">here</a>. To get into the basement after the building is locked, 
+	slide your SUID card in the card reader by the main basement entrance. For code submitted late, 
+	please write the date and time of submission on your report and sign it before placing it in the box.
+
+        <br><br>It is an honor code violation to write down the wrong time.
+      </p>
+
+      <p>
+        When students collaborate on an assignment, and the assignment is
+        submitted late, late days are deducted from each team member's
+        balance.  Altruistic team members are allowed to "donate" late days
+        to a collaborator if they wish.
+      </p>
+
+      <!-- ------------------------------------------------------- -->
+
+      <br/>
+      <a name="regrading"><h1>Regrading requests</h1></a>
+
+      <p>
+        If you feel you deserved a better grade on an assignment, you may
+        submit a regrade request <i>in writing</i> to the TA responsible.
+        Your request should briefly summarize why you feel the original
+        grade was unfair.  Your TA will take a day or two to reevaluate
+        your assignment, and then issue a decision.  If you're still not
+        satisfied, you can then appeal (again, <i>in writing</i>) to
+        the course instructors, Bill MacCartney and Prof. Gerald Penn.
+      </p>
+
+      <p>
+        Note that in regrading an assignment, we may reevaluate any part
+        of it, not just the part you bring to our attention.
+      </p>
+
+      <tr valign="top">
+        <td>  
+        </table>
+
+    <!-- end left bar -->
+    
+  </tr>
+</table>
+
+
+<!-- END OF PAGE CONTENTS ----------------------------- //-->
+
+  <br/>
+    <table class="footer" border="0" width="100%" cellpadding="0">
+      <tr>
+        <td width="14"><p class="small">&nbsp;</p></td>
+        <td align="left">
+        </td>
+        <td align="right">
+          <p class="small">
+            Site design by <a href="http://nlp.stanford.edu/~wcmac/">Bill MacCartney</a>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+

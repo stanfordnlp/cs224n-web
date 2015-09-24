@@ -1,0 +1,62 @@
+<!--#include virtual="header.html" -->
+
+    <!-- THE ACTUAL PAGE CONTENTS START HERE // -->
+
+    <br/>
+    <h1>Grading</h1>
+    <p>There will be four substantial programming assignments, each exploring a core NLP task. They are a chance to see real, close to state-of-the-art tools and techniques in action, and where students learn a lot of the material of the class. You have the choice to do the fourth programming assignment, or to do a final programming project on a topic of your own choosing.</p>
+    <p>There will also be short online quizzes on the edX website, which aim to get you to think about material you read/hear which isn't directly in a programming assignment.</p>
+
+    <p>Finally, you will be rewarded for class participation. You may earn class participation credit for participating in class, attending coding sessions or office hours and answering questions on Piazza.</p>
+    <p>In summary, the final grade will be computed as follows:
+      <ul>
+	<li>80%--Programming assignments: The first three programming assignment will be worth 18% each of your final grade, and the final programming project or fourth programming assignment will be worth 26% of your grade. Due at 5:00pm on the assigned due date.</li>
+	<li>14%--Quizzes: 7 weekly quizzes/reading assignemnts will be
+	released on Wednesday and due on the following Monday</li>
+	<li>6%--Participation: Broken down as 3% for completing the Competitive Grammar Writing exercise in class or at home and another 3% for general class participation.</li>
+      </ul>
+    </p>
+    <h2>General Class Participation Guidelines</h2>
+	<p>This includes but is not limited to Piazza participation, coming to and being active in class, talking to TAs or the professor in programming sessions or office hours, and mid-quarter survey completion.</p>
+
+	<p>We will be taking attendance a couple of times in the second half of the quarter to make sure we know who regularly comes to class, even if you are quiet. Even Piazza participation alone can fetch you the full 3% for general class participation.  However we encourage you to attend the lectures and ask questions during the class as a surefire way of earning the participation points. </p>
+
+    <h2>Collaboration Policy</h2>
+    <p>For both the programming assignments and final project, you're free to work alone, but you're also allowed (and indeed encouraged) to work in teams. This means developing ideas together, writing code together, and submitting a joint report.</p>
+    <ul>
+    <li>For the programming assignments, only two-person teams are allowed.</li>
+    <li>For the final project, teams of up to three people are allowed.</li>
+    </ul>
+    <p>Ordinarily, all team members will receive the same grade for an assignment - though we reserve the right, in case of egregiously unequal contributions, to assign different grades to different team members. You can contact us in confidence in the event of unequal collaborations. <strong>Please ask if you have any questions about the collaboration policy.</strong></p>
+    <h2>Late Day Policy</h2>
+    <p>A grading penalty will be applied to late programming assignments. We recognize that students may face unusual circumstances and require some flexibility in the course of the quarter; therefore each student will be granted a total of <strong>four free late (calendar) days</strong> to use as he or she sees fit. Once these late days are exhausted, any assignment turned in late will be penalized 10% per late day. Each 24 hours or part thereof that a assignment is late uses up one full late day.</p>
+    <p>Late days may be used for the final project report; however, <em>no final project reports will be accepted after Monday 12/10/15</em>.
+    </p>
+    <p>When students collaborate on an assignment, and the assignment is
+    submitted late, late days are deducted from each team member's
+    balance. Altruistic team members are allowed to "donate" late days to
+    a collaborator if they wish.
+    </p>
+<!--    
+<p><strong>New for 2013</strong>: You may trade in your participation
+    points for up to five additional late days. You may
+    earn one credit during each of the ten weeks, and trade in two credits
+    for one late day. However, you need six credits to earn the full 3% class
+    participation credit. So if you earn all ten class participation
+    credits, then you will receive the full 3% on your final grade (six
+    credits) in addition to two extra late days (four credits).</p>
+-->
+    <h2>Honor Code</h2>
+
+    <p>You should not look for programming assignment answers elsewhere. If material is taken from elsewhere, then you should acknowledge it. For programming assignments, you are not permitted to get programming help from people other than your partner. Normally, you are permitted to use pre-existing code, but <strong>you must acknowledge code that you have taken from other sources</strong>. In general, it is appropriate to make use of libraries, etc. for the final project, as needed, but it is normally not appropriate to use code from others in the programming assignments, except for ancillary functions or extra credit investigations. In these and other respects, we will act and expect you to act according to the <a href="http://studentaffairs.stanford.edu/communitystandards/policy/honor-code">Stanford Honor Code</a>.</p>
+    <h2>Regrading Requests</h2>
+    <p>If you feel you deserved a better grade on an assignment, you may submit a regrade request <em>in writing</em> to the TA responsible. Your request should briefly summarize why you feel the original grade was unfair. Your TA will take a day or two to reevaluate your assignment, and then issue a decision. If you're still not satisfied, you can then appeal (again, <em>in writing</em>) to the course instructor, Chris Manning.</p>
+    <p>Note that in regrading an assignment, we may reevaluate any part of it, not just the part you bring to our attention.</p>
+    <h2>Students with Documented Disabilities</h2>
+    <p>Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE). Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations. The OAE is located at 563 Salvatierra Walk (650-723-1066, <a href="http://studentaffairs.stanford.edu/oae">http://studentaffairs.stanford.edu/oae</a>).
+    </p>
+    <h2>Credit/No credit enrollment</h2>
+    <p>If you're doing the class credit/no credit then there are no special changes to the workload versus people registered for a grade. You are graded on work as usual, per standard Stanford rules. The only difference is that providing you reach a C- standard in your work, it will simply be graded as CR.  (So maybe you can take it a little bit easier.)
+    </p>
+
+</body></html>

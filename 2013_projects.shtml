@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>CS224N/Ling284 Final Projects 2012-2013</title>
+<link href="2013-2014_projects_files/fsnlp.html" rel="stylesheet" title="fsnlp_style" type="text/css">
+</head>
+<body>
+  <h1>CS224N/Ling284 Final Projects 2013-2014</h1>
+  <p>Final project reports from the Autumn offering of CS224N/Ling284:</p>
+
+  <dl>
+    <dt>Authorship and Date Classification using Syntactic Tree Features</dt>
+    <dd>Alex Cope [<a href="http://web.stanford.edu/class/cs224n/reports/2013/alexcope.pdf">Report</a>]</dd>
+    
+    <dt>Modeling Function Word Errors in DNN-HMM Based LVCSR Systems</dt>
+    <dd>Melvin Jose Johnson Premkumar, Ankur Bapna, Sree Avinash Parchuri [<a href="http://web.stanford.edu/class/cs224n/reports/2013/premkumar.pdf">Report</a>]</dd>
+    
+    <dt>Chord Prediction Using Lyric Sentiments</dt>
+    <dd>Ashwin Apte, Dimuth Kulasinghe [<a href="http://web.stanford.edu/class/cs224n/reports/2013/ashwina.pdf">Report</a>]</dd>
+
+    <dt>Coreference Resolution</dt>
+    <dd>Michael Comstock [<a href="http://web.stanford.edu/class/cs224n/reports/2013/comstock.pdf">Report</a>]</dd>
+
+    <dt>Context Independent Poem Recognition and Poetic Sentence Modification</dt>
+    <dd>Borui Wang, Huimin Li [<a href="http://web.stanford.edu/class/cs224n/reports/2013/wangli.pdf">Report</a>]</dd>
+
+    <dt>Visualization for Coreference Resolution Error Analysis</dt>
+    <dd>Colin Mayer, Francois Chaubard [<a href="http://web.stanford.edu/class/cs224n/reports/2013/mayer.pdf">Report</a>]</dd>
+
+    <dt>Conditional Random Field Latin Word Segmenter</dt>
+    <dd>Dylan Rhodes [<a href="http://web.stanford.edu/class/cs224n/reports/2013/dylanr.pdf">Report</a>]</dd>
+  
+    <dt>Intensionality of Adjectives</dt>
+    <dd>Mark Kowarsky, Neha Nayak [<a href="http://web.stanford.edu/class/cs224n/reports/2013/nayakne.pdf">Report</a>]</dd>
+
+    <dt>Predicting Stack Exchange Keywords</dt>
+    <dd>Alan Newman, Devin Guillory [<a href="http://web.stanford.edu/class/cs224n/reports/2013/newman.pdf">Report</a>]</dd>
+
+    <dt>Re­-Alignment Improvements for Deep Neural Networks on Speech Recognition Systems</dt>
+    <dd>Firas Abuzaid [<a href="http://web.stanford.edu/class/cs224n/reports/2013/abuzaid.pdf">Report</a>]</dd>
+
+    <dt>A Study of Multilabel Text Classification and the Effect of Label Hierarchy</dt>
+    <dd>Sushobhan Nayak, Raghav Ramesh, Suril Shah [<a href="http://web.stanford.edu/class/cs224n/reports/2013/nayak.pdf">Report</a>]</dd>
+
+    <dt>Text Classification of College Attendance</dt>
+    <dd>Eliza Evans [<a href="http://web.stanford.edu/class/cs224n/reports/2013/evans.pdf">Report</a>]</dd>
+
+    <dt>Alternate Equivalent Substitutes: Examining The Recognition of Synonyms Using Word Vectors</dt>
+    <dd>Alborz Bejnood, Tri Dao, Sam Keller [<a href="http://web.stanford.edu/class/cs224n/reports/2013/bejnood.pdf">Report</a>]</dd>
+
+    <dt>A Two-Stage Citation Recommendation System</dt>
+    <dd>Julian Kates-Harbeck, Mickey Haggblade [<a href="http://web.stanford.edu/class/cs224n/reports/2013/katesharbeck.pdf">Report</a>]</dd>
+
+    <dt>Recursive OpenIE</dt>
+    <dd>Keenon Werling [<a href="http://web.stanford.edu/class/cs224n/reports/2013/werling.pdf">Report</a>]</dd>
+
+    <dt>cRhyme: A Computer Engine for Generating Rhyming Sentences</dt>
+    <dd>Gil Shotan, Rafael Ferrer [<a href="http://web.stanford.edu/class/cs224n/reports/2013/shotan.pdf">Report</a>]</dd>
+
+    <dt>Is This A Joke?</dt>
+    <dd>Jim Cai and Nicolas Ehrhardt [<a href="http://web.stanford.edu/class/cs224n/reports/2013/cai.pdf">Report</a>]</dd>
+
+    <dt>Sentiment Analysis of Tweets: Baselines and Neural Network Models</dt>
+    <dd>Kai Sheng Tai [<a href="http://web.stanford.edu/class/cs224n/reports/2013/kst.pdf">Report</a>]</dd>
+
+    <dt>Learning Structures of Biological Processes with Joint Inference</dt>
+    <dd>Pei-Chun Chen, Hao Zhang [<a href="http://web.stanford.edu/class/cs224n/reports/2013/chen.pdf">Report</a>]</dd>
+
+    <dt>Large-Vocabulary Continuous Speech Recognition</dt>
+    <dd>Kelvin Gu, Naftali Harris [<a href="http://web.stanford.edu/class/cs224n/reports/2013/gu.pdf">Report</a>]</dd>
+
+    <dt>Large-Vocabulary Continuous Speech Recognition with Linguistic Features for Deep Learning</dt>
+    <dd>Peng Qi [<a href="http://web.stanford.edu/class/cs224n/reports/2013/qi.pdf">Report</a>]</dd>
+
+    <dt>Building an Emotional Relation Extraction Tool</dt>
+    <dd>Desmond C. Ong, Wen Hao Lui [<a href="http://web.stanford.edu/class/cs224n/reports/2013/ong.pdf">Report</a>]</dd>
+
+    <dt>Exploring the Effect of Mutual Gaze Perception on Students’ Collaborative Discourse</dt>
+    <dd>Bertrand Schneider [<a href="http://web.stanford.edu/class/cs224n/reports/2013/schneider.pdf">Report</a>]</dd>
+
+    <dt>Shakespeare in One Hundred Words</dt>
+    <dd>Samir Bajaj [<a href="http://web.stanford.edu/class/cs224n/reports/2013/bajaj.pdf">Report</a>]</dd>
+
+    <dt>Automated Essay Scoring Using Machine Learning</dt>
+    <dd>Shihui Song, Jason Zhao [<a href="http://web.stanford.edu/class/cs224n/reports/2013/song.pdf">Report</a>]</dd>
+
+    <dt>Visual Summarization of Fairy Tales through Automated Tagging of Beats</dt>
+    <dd>Dustin Janatpour [<a href="http://web.stanford.edu/class/cs224n/reports/2013/ .pdf">Report</a>]</dd>
+  </dl>
+
+
+</body></html>

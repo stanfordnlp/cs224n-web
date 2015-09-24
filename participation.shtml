@@ -1,0 +1,13 @@
+<!--#include virtual="header.html" -->
+    <!-- THE ACTUAL PAGE CONTENTS START HERE // -->
+<p>
+
+You can check your late days and
+participation <a href="selfcheck.shtml">here.</a>
+The policy is described in the <a href="grading.shtml">grading page</a>.
+
+</p>
+
+<iframe src="https://docs.google.com/forms/d/18j7etBZxiDIr7aN2Eb9LIoRuIh0-ygAopn0Cd9BWM2c/viewform?embedded=true"
+	width="100%" height="90%" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</body></html>

@@ -1,0 +1,837 @@
+<!--#include virtual="header.html" -->
+
+    <!-- THE ACTUAL PAGE CONTENTS START HERE // -->
+
+    <br/>
+    <h1><a name="calendar">Calendar</a></h1>
+    
+    <table width="95%" cellpadding="6">
+
+      <tr>
+        <td width="10%"><strong>Mon</strong></td>
+        <td width="30%"><strong>Tue</strong></td>
+        <td width="10%"><strong>Wed</strong></td>
+        <td width="30%"><strong>Thu</strong></td>
+        <td width="20%"><strong>Fri</strong></td>
+      </tr>
+
+      <tr valign="top">
+        <td class="jan_off"><strong>Sep 21</strong></td>
+        <td class="jan_on"><strong>Sep 22</strong>
+        <br/>
+        <a href="#lec1">Lecture 1: Introduction </a><br/>
+        </td>
+        <td class="jan_off"><strong>Sep 23</strong></td>
+        <td class="jan_on"><strong>Sep 24</strong>
+          
+        <br/>
+        <a href="#lec2">Lecture 2:  Word Alignment Models for Statistical MT</a>
+		<span style="float: right"> <span class="green">PA1 out</span> </span>
+        </td>
+        <td class="jan_off"><strong>Sep 25</strong>
+	</td>
+	
+	</td>
+      </tr>
+
+      <tr valign="top">
+        <td class="jan_off"><strong>Sep 28</strong>
+        <td class="jan_on"><strong>Sep 29</strong>
+        <br/>
+        <a href="#lec3">Lecture 3: Machine Translation: Word Alignment, Parallel
+              Corpora, Decoding, Evaluation</a>
+        </td>
+        <td class="jan_off"><strong>Sept 30</strong></td>
+        <td class="jan_on"><strong>Oct 1</strong>
+        <br/>
+        <a href="#lec4">Lecture 4: Modern MT Systems (Phrase-based, Syntactic)</a>
+        </td>
+        <td class="jan_off"><strong>Oct 2</strong></td>
+      </tr>
+
+      <tr valign="top">
+        <td class="jan_off"><strong>Oct 5</strong></td>
+        <td class="jan_on"><strong>Oct 6</strong>
+        <br/>
+        <a href="#lec5">Lecture 5: N-Grams, Final Project Discussion
+        </a>
+        </td>
+        <td class="jan_off"><strong>Oct 7</strong></td>
+        <td class="jan_on"><strong>Oct 8</strong>
+	<span style="float: right">
+		  <span class="green">PA2 out</span>
+	</span>
+
+<br/>
+        <a href="#lec6">Lecture 6: Syntax and parsing</a>  
+	<span style="float: right">
+		<span class="crimson">PA1 due</span>
+        </span>
+        
+        </td>
+        <td class="jan_off"><strong>Oct 9</strong>
+</td>
+      </tr>
+
+      <tr valign="top">
+        <td class="jan_off"><strong>Oct 12</strong></td>
+        <td class="jan_on"><strong>Oct 13</strong>
+        <br/>
+        <a href="#lec7">Lecture 7: Competitive Grammar Writing I</a>
+        </td>
+        <td class="jan_off"><strong>Oct 14</strong></td>
+        <td class="jan_on"><strong>Oct 15</strong>
+        <br/>
+        <a href="#lec8">Lecture 8: Competitive Grammar Writing II</a>
+        </td>
+        <td class="jan_off"><strong>Oct 16</strong></td>
+      </tr>
+
+      <tr valign="top">
+        <td class="jan_off"><strong>Oct 19</strong></td>
+        <td class="jan_on"><strong>Oct 20</strong>
+          <span style="float: right">
+            <span class="crimson">Final project proposal due</span>
+          </span>
+        <br/>
+        <a href="#lec9">Lecture 9: Dependency Parsing</a>
+        </td>
+        <td class="feb_off"><strong>Oct 21</strong></td>
+        <td class="feb_on"><strong>Oct 22</strong>
+        <span style="float: right">
+          <span class="crimson">PA2 due</span>
+        </span>
+        <br/>
+        <a href="#lec10">Lecture 10: Coreference Resolution</a>
+        <span style="float: right">
+          <span class="green">PA3 out</span>
+        </span>
+        </td>
+        <td class="feb_off"><strong>Oct 23</strong></td>
+      </tr>
+
+      <tr valign="top">
+        <td class="feb_off"><strong>Oct 26</strong></td>
+        <td class="feb_on"><strong>Oct 27</strong>
+        <br/>
+        <a href="#lec11">Lecture 11: Coreference Resolution II / Classifiers</a>
+        </td>
+        <td class="feb_off"><strong>Oct 28</strong></td>
+        <td class="feb_on"><strong>Oct 29</strong><br />
+        <a href="#lec12">Lecture 12: MaxEnt Classifiers, Sequence Classifiers for NER</a>
+        </td>
+        <td class="feb_off"><strong>Oct 30</strong></td>
+      </tr>
+
+      <tr valign="top">
+        <td class="feb_off"><strong>Nov 2</strong></td>
+        <td class="feb_on"><strong>Nov 3</strong>
+        <br/>
+        <a href="#lec13">Lecture 13: Kevin Knight's Lecture: Language
+        Translation and Code-Breaking</a>
+        </td>
+        <td class="feb_off"><strong>Nov 4</strong>
+        <td class="feb_on"><strong>Nov 5</strong>
+        <span style="float: right">
+          <span class="crimson">PA3 due</span>
+        </span>
+        <br/>
+        <a href="#lec14">Lecture 14: Deep Learning for NLP</a>
+        <span style="float: right">
+          <span class="green">PA4 out</span>
+        </span>
+        </td>
+        <td class="feb_off"><strong>Nov 6</strong></td>
+        </td>
+      </tr>
+
+      <tr valign="top">
+        <td class="feb_off"><strong>Nov 9</strong><br/>
+        <td class="feb_on"><strong>Nov 10</strong>
+	<br/>
+        <a href="#lec15">Lecture 15: Deep Learning for NLP </a>
+        </td>
+        <td class="feb_off"><strong>Nov 11</strong></td>
+        <td class="feb_on"><strong>Nov 12</strong>
+        <br/>
+        <a href="#lec16">Lecture 16: Deep Learning for NLP</a>
+        </td>
+        <td class="feb_off"><strong>Nov 13</strong></td>
+        </td>
+      </tr>
+
+      <tr valign="top">
+        <td class="feb_off"><strong>Nov 16</strong><br/>
+        <td class="mar_on"><strong>Nov 17</strong>
+        <br/>
+        <a href="#lec17">Lecture 17: Computational Semantics</a>
+        </td>
+        <td class="mar_off"><strong>Nov 18</strong></td>
+        <td class="mar_on"><strong>Nov 19</strong>
+        <br/>
+        <a href="#lec18">Lecture 18: Computational Semantics</a>
+        </td>
+        <td class="mar_off"><strong>Nov 20</strong></td>
+      </tr>
+      
+      <tr valign="top">
+        <td class="mar_off"><strong>Nov 23</strong></td>
+        <td class="feb_off"><strong>Nov 24</strong>
+        <br/>
+        Thanksgiving <br/>
+        </td>
+        <td class="mar_off"><strong>Nov 25</strong></td>
+        <td class="mar_off"><strong>Nov 26</strong>
+        <br/>
+        Thanksgiving <br/>
+        </td>
+        <td class="mar_off"><strong>Nov 27</strong></td>
+        </td>
+      </tr>
+
+      <tr valign="top">
+        <td class="mar_off"><strong>Nov 30</strong><br/>
+        <td class="mar_on"><strong>Dec 1</strong>
+        <br/>
+        <a href="#lec17">Lecture 19: Computational Semantics (continued)</a>            
+        </td>
+        <td class="mar_off"><strong>Dec 2</strong></td>
+        <td class="mar_on"><strong>Dec 3</strong>
+        <br/>
+        <!--<a href="#lec18">Lecture 20: Text-based Question Answering systems</a>-->
+	<span class="crimson"><a href="#fp">Final project
+        presentations 3:30-6:30pm</a></span>
+        </td>
+        <td class="mar_off"><strong>Dec 4</strong></td>
+        </td>
+      </tr>
+
+      <tr valign="top">
+        <td class="mar_on"><strong>Dec 7</strong>
+       </td>
+        <td class="mar_off"><strong>Dec 8</strong>
+<span style="float: right">
+          <span class="crimson">PA4 due</span>
+        </span>
+       </td>
+        <td class="mar_on"><strong>Dec 9</strong></td>
+        <td class="mar_off"><strong>Dec 10</strong>
+	  <span style="float: right">
+            <span class="crimson">Hard deadline for final project and report</span>
+          </span>
+	</td>
+        <td class="mar_off"><strong>Dec 11</strong>
+</td>
+      </tr>
+
+    </table>
+
+      <!-- Real syllabus starts here -->
+
+      <br/><br/>
+      <h1><a name="syllabus">Syllabus</a></h1>
+
+    
+      <table class="p" width="100%" cellpadding="10">
+
+        <tr valign="top">
+          <td width="75"><a name="lec1"><strong>Lecture 1</strong><br/>Mon<br/>
+          9/22/15</a></td>
+          <td>
+            <strong>Course Introduction and Administration. Overview of NLP. Statistical Machine Translation.</strong> 
+            <br/><br/>
+            
+      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture1.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture1-6up.pdf">6-up</a>)<br/><br/>
+       
+	    <em>Required:</em>
+	    <ul>
+	      <li>If your knowledge of probability theory is limited, please read M&amp;S 2.0-2.1.7. If that's too condensed, read the probability chapter of an intro statistics textbook, e.g. Rice, Mathematical Statistics and Data Analysis, ch. 1.
+        </li>
+	      </ul>
+            <em>Optional</em>:
+            <ul>
+              <li>Good background reading: J&amp;M Ch. 1; M&amp;S 1.0-1.3, 4.1-4.2, <a href="grading.shtml">Collaboration Policy</a></li>
+              <li>Unix text manipulation (useful
+              skill!): <a href="https://courseware.stanford.edu/mod/file/download.php?file_guid=214487">Ken
+              Church's tutorial Unix for Poets</a>
+              or <a href="http://www.stanford.edu/class/cs124/lec/124-UnixForPoets.pdf">the
+              (more up-to-date!) cs124 version</a>.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <table class="p" width="100%" cellpadding="10">
+
+        <tr valign="top">
+          <td width="75"><a name="lec2"><strong>Lecture 2</strong><br/>Wed<br/>
+          9/24/15</a></td>
+          <td>
+            <strong>Word Alignment Models for Statistical MT</strong>
+            <br/><br/>
+            <span class="crimson"><em>Assignments</em>:
+              <ul><li>PA1 (Word Alignment and MT System) Out. (Find it
+              on OpenEdX under Courseware.)</li></ul></span>
+            
+      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture2-WordAlign.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture2-WordAlign-6up.pdf">6-up</a>)<br/><br/>
+
+	    <em>Tutorial reading:</em> 
+	    <ul>
+              <!--li>Michael Collins. 2011. <a href="http://www.cs.columbia.edu/~mcollins/courses/nlp2011/notes/ibm12.pdf">Statistical Machine Translation: IBM Models 1 and 2</a>.</li-->
+              <li>Michael Collins. 2011. <a href="http://web.stanford.edu/class/cs224n/handouts/Collins_annotated.pdf">Statistical Machine Translation: IBM Models 1 and 2</a>.</li>
+	      <!--li>Kevin Knight. 1999. <a href="http://www.isi.edu/natural-language/mt/wkbk-rw.pdf">A Statistical MT Tutorial Workbook.</a-->
+	      <li>Kevin Knight. 1999. <a href="http://web.stanford.edu/class/cs224n/handouts/Knight_workbook_with_notes.pdf">A Statistical MT Tutorial Workbook.</a>
+	    MS., August 1999. Sections 1-14.</li>
+      </ul>
+
+
+      <em>Background:</em>
+      <ul>
+          <li> <a href="http://www-03.ibm.com/ibm/history/exhibits/701/701_translator.html">The IBM 701 translator</a> (1954)</li>
+      </ul>
+      
+      <em>Advanced:</em> 
+      <ul>
+      <li>Robert C. Moore. 2004. <a href="http://www.aclweb.org/anthology/P04-1066">Improving IBM Word Alignment Model 1</a>. In ACL. </li>
+      <li>Robert C. Moore. 2005. <a href="http://www.mt-archive.info/ACL-2005-Moore.pdf">Association-Based Bilingual Word Alignment</a>. In ACL Workshop on Building and Using Parallel Texts.</li>
+      
+      
+      <li>Kristina Toutanova and Michael Galley. 2011. <a href="http://www.aclweb.org/anthology/P11-2081"> Why Initialization Matters for IBM Model 1: Multiple Optima and Non-Strict Convexity</a>. In ACL. </li>
+      <li>Chris Dyer, Victor Chahuneau and Noah A. Smith. 2013. <a href="http://aclweb.org/anthology//N/N13/N13-1073.pdf">A
+	      Simple, Fast, and Effective Reparameterization of IBM
+	      Model 2</a>. In NAACL. </li>
+      <li> Andrei Simion, Michael Collins and Cliff Stein. 2013. <a href = "http://www.cs.columbia.edu/~mcollins/papers/ibm2convex.pdf">A Convex Alternative to IBM Model 2</a>. In EMNLP.</li>
+
+      <li> Douwe Gelling and Trevor Cohn. 2014. <a href="http://aclweb.org/anthology/P/P14/P14-2025.pdf"> Simple extensions for a reparameterised IBM Model 2</a>. In ACL.</li>
+
+      <li> Andrei Simion, Michael Collins and Cliff Stein. 2015. <a href = "http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP023.pdf"> On a Strictly Convex IBM Model 1</a>. In EMNLP.</li>
+      </ul>
+      
+      </td>
+      </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><a name="lec3"><strong>Lecture 3</strong><br/>Mon<br/>
+          9/29/15</a></td>
+          <td>
+            <strong>Machine Translation: Word Alignment, Parallel
+              Corpora, Decoding, Evaluation</strong><br/><br/>
+
+      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture3-MT.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture3-MT-6up.pdf">6-up</a>)<br/><br/>
+
+
+	          <em>Required:</em><ul><li>J&amp;M chapter 25</li></ul>
+	          <em>Tutorial reading:</em>
+	          <ul>
+            <li><a href="http://www.isi.edu/natural-language/mt/wkbk-rw.pdf">Kevin Knight. A Statistical MT Tutorial Workbook.</a> MS., August 1999. Sections 15-37.</li>
+            <li><a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/knight-faq.pdf">Knight workbook FAQ</a></li>
+            </ul>
+	    <em>Optional:</em> 
+	    <ul>
+      <li>Ulrich Germann, Michael Jahr, Kevin Knight, Daniel Marcu, and Kenji Yamada. 2001. <a href="http://aclweb.org/anthology//P/P01/P01-1030.pdf">Fast Decoding and Optimal Decoding for Machine Translation</a>. ACL.</li>
+      <li>Adam
+      Lopez. 2008. <a href="http://www.cs.jhu.edu/~alopez/papers/survey.pdf">Statistical
+      Machine Translation</a>. <i>ACM Computing Surveys</i> 40(3).
+      </ul>
+         </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><a name="lec4"><strong>Lecture 4</strong><br/>Wed<br/>
+          10/1/15</a></td>
+          <td>
+            <strong>Modern MT Systems (Phrase-based, Syntactic) <!--, MT in the Translation Industry --></strong><br/>
+	    <br/> 
+
+      <em>Lecture Slides:</em>
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture4-PhraseBasedMT.pdf">1-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture3-MT-6up.pdf">6-up</a>) <br/><br/>
+
+	    <em>Optional:</em> 
+	    <ul>
+      <li>Franz Josef Och, Hermann Ney. 2004. <a href="http://www.aclweb.org/anthology-new/J/J04/J04-4002.pdf">The alignment template approach to statistical machine translation.</a> <em>Computational Linguistics</em> 30(4): 417-449.</li>
+      <li>K. Yamada and K. Knight. 2002. <a href="http://www.isi.edu/natural-language/projects/rewrite/syndec.ps">A Decoder for Syntax-Based Statistical MT</a>. ACL. 
+      <li>David Chiang. 2005. <a href="http://www.aclweb.org/anthology/P05-1033">A hierarchical phrase-based model for statistical machine translation</a>. ACL 2005, pages 263-270.</li>
+      </ul>
+         </td>
+        </tr>
+      </table>
+
+      <a name="lec5"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 5</strong><br/>Mon<br/>
+          10/6/15</td>
+          <td>
+            <strong> N-Grams, Final Project Discussion</strong><br/><br/>
+
+      <em>Lecture Slides:</em>
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture5-language-models.pdf">1-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture5-language-models-6up.pdf">6-up</a>) <br/><br/>
+
+
+            <em>Required:</em>
+            <ul>
+	      <li><a href="https://class.stanford.edu/c4x/Engineering/CS-224N/asset/slp4.pdf">J&amp;M
+	      Chapter 4 (EdX link)</a>  (or
+	      M&amp;S 1.4, 2.2, 6) </li>
+              <li>Week 3 Language Modeling Videos</li> 
+            </ul>
+            <em>Resources:</em>
+            <ul>
+            <li><a href="http://megahal.alioth.debian.org/Best.html">MegaHAL</a></li>
+            <li>Shannon experiment for the entropy of English: <a href="http://www.math.ucsd.edu/~crypto/java/ENTROPY/">Java applet</a>. Results spreadsheet: <a href="https://docs.google.com/a/stanford.edu/spreadsheet/ccc?key=0Al2v5U105xm1dEZhWFo2NEhkQ2xIWGJGd1JSbk40LVE#gid=0"> gdoc</a></li>
+            </ul>
+            <em>Optional:</em>
+            <ul>
+            <li>(advanced) <a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/goodman-2001.pdf">Joshua Goodman (2001), A Bit of Progress in Language Modeling, Extended Version.</a></li>
+            <li>(advanced) <a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/chen-1998.pdf">Stanley Chen and Joshua Goodman (1998), An empirical study of smoothing techniques for language modeling.</a></li>
+            <li>(very advanced) <a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/teh-2006.pdf">Teh, Yee Whye. 2006. A Hierarchical Bayesian Language Model based on Pitman-Yor Processes.</a> EMNLP 2006.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec6"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 6</strong><br/>Wed<br/>
+          10/8/15</td>
+          <td>
+            <strong>Syntax and parsing</strong><br/><br/>
+
+      <em>Lecture Slides:</em>
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/SLoSP-2013-1.pdf">1-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/SLoSP-2013-1-6up.pdf">6-up</a>) <br/><br/>
+
+            <span class="crimson">
+              <em>Assignments</em>:
+              <ul>
+                <li>PA1 due</li>
+                <li>PA2 (CYK-Parser) out</li>
+              </ul>
+            </span>
+      
+	          <em>Required:</em>
+	          <ul>
+	            <li>Week 3 Parsing Videos</li>
+	            <li>J&amp;M ch. 13, secs. 13.0-13.3.</li>
+	          </ul>
+
+	          <em>Background:</em>
+	          <ul>
+	            <li>J&amp;M ch. 9 (or M&amp;S ch. 3). This is especially if you haven't done any linguistics courses, but even if you have, there's useful information on treebanks and part-of-speech tag sets used in NLP.
+              </li>
+	          </ul>
+         </td>
+        </tr>
+      </table>
+
+     
+      <a name="lec7"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 7</strong><br/>Mon<br/>
+          10/13/15</td>
+          <td>
+            <strong>Competitive Grammar Writing I</strong><br/><br/>
+            <em>Required:</em>
+  	        <ul>
+  	          <li>Week 4 Parsing Videos</li>
+  	          <li>J&amp;M sec 13.4</li>
+  	        </ul>
+            <em>Background:</em>
+            <ul>
+              <li>Dan Klein and Christopher D. Manning. 2003. <a href="http://nlp.stanford.edu/pubs/unlexicalized-parsing.pdf">Accurate Unlexicalized Parsing.</a> ACL 2003, pp. 423-430.</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec8"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 8</strong><br/>Wed<br/>
+          10/15/15</td>
+          <td>
+            <strong>Competitive Grammar Writing II</strong><br/><br/>
+            <em>Required:</em>
+  	        <ul>
+  	          <li>Week 4 Parsing Videos</li>
+  	        </ul>
+  	        <em>Optional:</em>
+  	        <ul>
+              <li>Eugene Charniak (1997), <a href="http://www.cs.brown.edu/people/ec/papers/aimag97.ps">Statistical techniques for natural language parsing</a>, <em>AI Magazine</em>.</li>
+              <li>Eugene Charniak (1997), <a href="http://www.cs.brown.edu/people/ec/papers/aaai97.ps">Statistical parsing with a context-free grammar and word statistics</a>, <em>Proceedings of the Fourteenth National Conference on Artificial Intelligence</em>. AAAI Press/MIT Press, Menlo Park (1997).</li>
+              <li>Eugene Charniak (2000), <a href="http://www.cs.brown.edu/people/ec/papers/shortMeP.ps.gz">A Maximum-Entropy-Inspired Parser</a>, <em>Proceedings of NAACL-2000</em>.</li>
+              <li>Slav Petrov, Leon Barrett, Romain Thibaux and Dan Klein. <a href="http://www.petrovi.de/data/acl06.pdf">Learning Accurate, Compact, and Interpretable Tree Annotation</a>. COLING/ACL 2006</li>
+            </ul>
+            
+          </td>
+        </tr>
+      </table>
+
+    
+      <!-- .............................................................. -->
+
+      <a name="lec9"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 9</strong><br/>Mon<br/>
+          10/20/15</td>
+          <td>
+            <strong>Dependency Parsing</strong><br /><br />
+
+      <em>Lecture Slides:</em>
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/SLoSP-2014-4-dependencies.pdf">1-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/SLoSP-2014-4-dependencies-6up.pdf">6-up</a>) <br/><br/>
+
+            <span class="crimson">
+              <em>Assignments</em>:
+              <ul>
+                <li>Final Project Proposal Due.  
+		<a href="instructions.txt">Instructions</a></li>
+              </ul>
+            </span>
+            <em>Required:</em>
+    	      <ul>
+    	        <li>Week 5 Parsing Videos</li>
+    	      </ul>
+    	        
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec10"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 10</strong><br/>Wed<br/>
+          10/22/15</td>
+          <td>
+            <strong>Coreference Resolution</strong><br /><br /> 
+
+      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture10-coreference.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture10-coreference-6up.pdf">6-up</a>)<br/><br/>
+
+            <span class="crimson">
+              <em>Assignments</em>:
+              <ul>
+                <li>PA2 Due</li>
+                <li>PA3 (Coreference System) out</li>
+              </ul>
+            </span><br />
+	          <em>Required:</em>
+	          <ul>
+	            <li>J&amp;M 21.3-21.8 (or all of Chapter 21 if you wish!)</li>
+	          </ul>
+
+            <em>Optional:</em>
+            <ul>
+              <li>Ng, Vincent (2005). <a href="http://www.hlt.utdallas.edu/~vince/papers/acl10.html">Supervised Noun Phrase Coreference Research: The First Fifteen Years</a>.</li>
+              <li>Raghunathan, Karthik et al. (2010). <a href="http://nlp.stanford.edu/pubs/coreference-emnlp10.pdf">A Multi-Pass Sieve for Coreference Resolution</a>. In Proceedings of the 2010 Conference on Empirical Methods in Natural Language Processing (EMNLP 2010).</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec11"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 11</strong><br/>Mon<br/>
+          10/27/15</td>
+          <td>
+            <strong>Coreference Resolution II</strong><br/><br/>
+
+      <em>Lecture Slides:</em>
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture11-coreference.pdf">1-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture11-coreference-6up.pdf">6-up</a>)
+      Intro to feature-based classifiers: (<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-FeatureClassifiers.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-FeatureClassifiers-6up.pdf">6-up</a>)<br/><br/>
+      <br/><br/>
+
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec12"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 12</strong><br/>Wed<br/>
+          10/29/15</td>
+          <td>
+            <strong>MaxEnt Classifiers, Sequence Classifiers for
+            NER</strong> <br /><br />
+
+<!--      <em>Lecture Slides Part 1:</em> --
+  -- --
+  --(<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9.pdf">1-up</a>) --
+  --(<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-6up.pdf">6-up</a>)<br/><br/> -->
+
+      
+      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-MEMMs-Smoothing.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-MEMMs-Smoothing-6up.pdf">6-up</a>)<br/><br/>
+
+	          <em>Optional:</em>
+	          <ul>
+		    <li>J&amp;M sections 6.6-6.8, 22.1
+	            <li>Adam Berger, <a href="http://www-2.cs.cmu.edu/afs/cs/user/aberger/www/html/tutorial/tutorial.html"> A Brief Maxent Tutorial</a></li>
+	          </ul>
+
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec13"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 13</strong><br/>Mon<br/>
+          11/3/15</td>
+          <td>
+            <strong>Kevin Knight - Language Translation and Code-Breaking</strong> <br /><br />
+
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec14"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 14</strong><br/>Wed<br/>
+          11/5/15</td>
+          <td>
+            <strong>Deep Learning for NLP</strong> <br/><br/>
+
+      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1-6up.pdf">6-up</a>)<br/><br/>
+
+            <span class="crimson">
+              <em>Assignments</em>:
+              <ul>
+                <li>PA3 Due</li>
+                <li>PA4 (Deep Learning Sequence Model) out</li>
+              </ul>
+            </span>
+          </td>
+      </tr>
+    </table>
+
+      <!-- .............................................................. -->
+
+       <a name="lec15"/>
+        <table class="p" width="100%" cellpadding="10">
+          <tr valign="top">
+            <td width="75"><strong>Lecture 15</strong><br/>Wed<br/>
+            11/10/15</td>
+
+            <td>
+            <strong> Deep Learning for NLP</strong><br /><br />
+
+      <em>Lecture Slides:</em> see slides from previous 2 lectures
+<!--(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2.pdf">1-up</a>) --
+  --(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2-6up.pdf">6-up</a>) -->
+<br/><br/>
+
+
+  	    <!-- In-class programming activity: /afs/ir/class/cs224n/lecture/11Nov -->
+  	    </td>
+  	    </tr>
+  	    </table>
+      <!-- .............................................................. -->
+
+      <a name="lec16"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 16</strong><br/>Wed<br/>
+          11/12/15</td>
+
+          <td>
+  	    <strong>Deep Learning for NLP</strong><br /><br />
+	    <em>Lecture Slides:</em>
+(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2.pdf">1-up</a>)
+(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2-6up.pdf">6-up</a>)
+<!--
+	    (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-topic-models.pdf">1-up</a>) --
+  --(<a href="http://www-nlp.stanford.edu/projects/dissertations/browser.html">Dissertation --
+  --Browser</a>) -->
+	        </td>
+	      </tr>
+	    </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec17"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 17</strong><br/>Mon<br/>
+          11/17/15</td>
+          <td>
+	          <strong> Computational Semantics</strong><br/><br/>
+<em>Lecture Slides:</em>
+      [<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics.pdf">1-up</a>]
+      [<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics-6up.pdf">6-up</a>]
+<br/><br/>
+<!--      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-computational-semantics.pdf">1-up</a>) -->
+</td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <!--
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75">Fri<br/>5/23/08</td>
+          <td>
+            <span class="gray">no section today</span>
+          </td>
+        </tr>
+      </table>
+      -->
+
+     <!-- .............................................................. -->
+
+      <a name="lec18"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 18</strong><br/>Wed<br/>
+          11/19/15</td>
+          <td>
+            <strong>Computational Semantics</strong> <br/><br/>
+      <em>Lecture Slides:</em>
+      first part (<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics%202.pdf">1-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics%202-6up.pdf">6-up</a>);
+      second part (<a href="handouts/cl-semantics-slides-2012.pdf">1-up</a>).
+            <p>
+            <em>Required:</em>
+              <ul>
+                <li><a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/cl-semantics-new.pdf">An Introduction to Formal Computational Semantics</a></li>
+              </ul>
+          </td>
+ 
+        </tr>
+      </table>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+            <td width="75">&nbsp;</td>
+            <td>
+              <strong><span class="green">Thanksgiving Break</span></strong>
+            </td>
+          </tr>
+        </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec19"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 19</strong><br/>Mon<br/>
+          12/1/15</td>
+          <td>
+            <strong>Computational Semantics (continued)</strong><br/><br/>
+      <em>Lecture Slides:</em>
+      second part (<a href="handouts/cl-semantics-slides-2012.pdf">1-up</a>);
+      third part (<a href="handouts/afz-tutorial.acl.2013-learning.pdf">1-up</a>).
+      Lecture slides: (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-computational-semantics.pdf">1-up</a>)
+
+ <br/><br/>
+            <em>Required:</em>
+              <ul>
+                <li><a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/cl-semantics-new.pdf">An Introduction to Formal Computational Semantics</a></li>
+              </ul>
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="lec20"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 20</strong><br/>Wed<br/>
+          12/3/15</td>
+          <td>
+            <strong>Text-based Question Answering systems</strong><br/><br/>
+      <em>Lecture Slides:</em>
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-QA-2013.pdf">1-up</a>)
+      <br/><br/>
+
+	          <em>Required:</em>
+	          <ul>
+	            <li>J&amp;M 23.0, 23.2</li>
+	          </ul>
+	          <em>Optional:</em>
+	            <ul>
+                <li>Marius Pasca, Sanda M. Harabagiu. <a href="http://www.utdallas.edu/~sanda/papers/sigir01.ps.gz">High Performance Question/Answering</a>. SIGIR 2001: 366-374.</li>
+                <li>Ferrucci et al. Building
+                Watson: <a href="http://www.aaai.org/ojs/index.php/aimagazine/article/view/2303/2165">
+                An Overview of the DeepQA Project</a>. AI Magazine,
+                2010. <a href="http://www.aaai.org/Magazine/Watson/watson.php">[html
+                version]</a></li>
+              </ul>
+              
+          </td>
+        </tr>
+      </table>
+
+      <!-- .............................................................. -->
+
+      <a name="fp"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75">Wed<br/>12/10/15<br/>
+          <td>
+            <strong>Final Project Presentations</strong>
+	    <a href="handouts/224NProjectInfo.pdf">project guidelines</a>
+          </td>
+        </tr>
+      </table>
+
+
+<!--
+            <strong>Dialog &amp; Discourse Systems</strong>
+	    [handout: <a href="handouts/NLP-06-07.pdf">pdf</a>]<br/>
+	    Rhetorical structure, planning and requests.<br/>
+	    <em>Assigned reading:</em> handout<br/>
+	    <em>Optional reading:</em> Gazdar &amp; Mellish ch. 10<br/>
+-->
+
+<!-- END OF PAGE CONTENTS ----------------------------- //-->
+
+    <br/>
+    <table class="footer" border="0" width="100%" cellpadding="0">
+      <tr>
+        <td width="14"><p class="small">&nbsp;</p></td>
+        <td align="left">
+	</td>
+        <td align="right">
+          <p class="small">
+	    Site design by <a href="http://nlp.stanford.edu/~wcmac/">Bill MacCartney</a>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+

@@ -1,0 +1,214 @@
+<!--#include virtual="header.html" -->
+
+<!-- THE ACTUAL PAGE CONTENTS START HERE //-->
+
+<table width="100%" cellpadding="10" cellspacing="0">
+  <tr valign="top">
+    
+    <!-- left bar: main content -->
+    <td width="75%">
+      
+      <!-- ------------------------------------------------------- 
+      
+      <a name="announcements"><h1>Announcements</h1></a>
+
+      <table class="p" cellpadding="0" cellspacing="0">
+
+       
+
+        <tr valign="top">
+          <td align="right">9/20/13</td>
+          <td width="20"></td>
+          <td>
+            </td>
+        </tr>
+
+       
+
+      </table>
+-->
+
+<h1>Welcome to CS224N!</h1>
+
+<p>Dear CS224N Students,<br /><br />
+
+Welcome to CS224N: Natural Language Processing! Here's an overview of how we plan on running the course this quarter.</p>
+
+<h3>Lectures:</h3>
+
+<p style="margin: 10px 0 20px;">Lectures will be held
+  in <a href="http://campus-map.stanford.edu/?srch=skilling">Skilling Auditorium</a>. Attendance is encouraged as interactive tutorials and discussions will occur during lecture times.</p>
+
+<h3>Course Website:</h3>
+
+<p>The class website can be found
+  at <a href="http://cs224n.stanford.edu/">http://cs224n.stanford.edu</a>
+  (a.k.a., <a href="http://www.stanford.edu/class/cs224n/">http://web.stanford.edu/class/cs224n/</a>), where we will post all the course material this quarter including course announcements, so please be sure to frequently check for updates. A tentative <a href="./syllabus.shtml">syllabus</a> is already up, so be sure to check it out if interested.</p> 
+
+<p>Further, we will be using OpenEdX for additional videos and weekly quizzes, which can be found <a href="https://suclass.stanford.edu/courses/Engineering/CS224N/Fall2015/about">here</a>.</p>
+
+<h3>Discussion Forum and Contact Staff:</h3>
+
+<p>We will also be using Piazza as the primary tool for discussions this quarter. You can find the class webpage on Piazza at <a href="https://piazza.com/stanford/fall2015/cs224n">https://piazza.com/stanford/fall2015/cs224n</a>. Please post all questions to Piazza including private messages to instructors (Piazza allows for posts to be made visible only to instructors) as those posts will be responded to first. E-mails sent to the staff should be sent to the staff mailing list (<a href="mailto:cs224n-aut1516-staff@lists.stanford.edu">cs224n-aut1516-staff@lists.stanford.edu</a>) instead of individual staff e-mail address.</p>
+
+
+
+
+<p>Please don't hesitate to contact us if you have any questions. Looking forward to a great quarter!</p>
+
+
+      <!-- ------------------------------------------------------- -->
+
+      <br/><br/>
+      <a name="description"><h1>Course Description</h1></a>
+      
+        <p>
+          This course introduces the fundamental concepts and ideas in natural language processing (NLP), otherwise known as computational linguistics. Ever wondered how Google Translate works, or how companies do automated resume processing? Want to build a computer that understands language? This course is for you. It develops an in-depth understanding of both algorithms for processing linguistic information and the underlying computational properties of natural languages. We consider word-level, syntactic, and semantic processing from both a linguistic and an algorithmic perspective, aiming to get up to speed with current research in the area. The course focuses on modern quantitative techniques in NLP -- using large corpora, statistical models for acquisition, disambiguation, and parsing -- and the construction of representative systems.</p>
+
+          <p>Understanding language is a very complex thing -- but
+          something that humans are amazingly good at:
+        </p>
+
+        <p><a href="http://xkcd.com/1576/"><img style="display: block;
+        margin-left: auto; margin-right: auto;" alt="xkcd 1576: I could
+        care less" src="i_could_care_less.png" width="592"
+        height="636" /></a></p>  <!-- 740x794 image -->
+		    
+  </td>       
+
+
+
+    <!-- end left bar -->
+
+    <!-- middle spacer -->
+    <td>
+      <img border="0" src="http://www.stanford.edu/class/cs224n/img/spacer.gif" width="10" height="1">
+    </td>
+    <!-- end middle spacer -->
+
+    <!-- right bar -->
+    <td width="25%" align="left">
+
+      <p align="left">
+        <img src="http://www.stanford.edu/class/cs224n/img/gates-200.jpg">
+      </p>
+
+      <h3>Course Information</h3>
+
+      <br/>
+      <table cellspacing="0" cellpadding="0" width="100%" border="0">
+        <tr> 
+	  <td><b>Lectures:</b></td> <td>Tue/Thur 3:00-4:20</td>
+	</tr>
+        <tr> 
+	  <td><b>Location:</b></td> 
+	  <td>
+	    <a href="http://campus-map.stanford.edu/?srch=skilling">
+	      Skilling Auditorium
+	    </a>
+	  </td>
+	</tr>
+	<tr>
+	  <td height="8">
+	    <img src="http://www.stanford.edu/class/cs224n/img/spacer.gif" width="1" height="6" alt="">
+	  </td>
+	</tr>
+     
+	<tr>
+	  <td height="8">
+	    <img src="http://www.stanford.edu/class/cs224n/img/spacer.gif" width="1" height="6" alt="">
+	  </td>
+	</tr>
+        <tr valign="top">
+	  <td><b>Instructor:</b></td>
+          <td><a href="http://nlp.stanford.edu/~manning/">Chris Manning</a></td>
+	</tr>
+	  <tr valign="top">
+	  <td><b>TAs:</b></td>
+          <td>
+            <a href="http://cs.stanford.edu/~danqi/">Danqi Chen </a><br />
+            <a href="https://stanford.edu/~meric/">Mihail Eric</a><br />
+            Jade Huang<br />
+	    Neha Nayak<br />
+	    Ashwin Paranjape <br />
+            
+            </td>
+	</tr>
+  
+      </table>
+
+      <!-- ------------------------------------------------------- -->
+      
+      <p>
+        <b>Web:</b>
+        <a href="http://cs224n.stanford.edu/">http://cs224n.stanford.edu/</a>
+      </p>
+
+
+      <p><b>Piazza:</b> <a href="https://piazza.com/stanford/fall2015/cs224n">CS224N forum</a><br/>
+Post questions, find project partners, etc. </p>
+
+
+      <p>
+        <b>Staff mailing list:</b><br/>
+        <a href="mailto:cs224n-aut1516-staff@lists.stanford.edu">cs224n-aut1516-staff@lists.stanford.edu</a><br/>
+      </p>
+
+      <p>
+        <b>AFS space:</b><br/>
+        <tt>/afs/ir/class/cs224n/</tt><br/>
+      </p>
+      
+      <p>
+        <b>Stanford computer cluster:</b>
+         <a href="http://farmshare.stanford.edu/">Farmshare</a><br/>
+        
+      </p>
+      
+      <p>
+        <b>Office Hours:</b><br />
+        
+	    Chris Manning: TBD, Gates 248 <br />
+            Danqi Chen: TBD<br />
+            Mihail Eric: TBD <br/> 
+            Jade Huang: TBD <br/>
+	    Neha Nayak: TBD <br/>
+            Ashwin Paranjape: TBD <br/>
+            <b><a href="https://www.google.com/calendar/embed?src=f80bhsmntkbubhgfs1vldqr2p0%40group.calendar.google.com&ctz=America/Los_Angeles"> 
+            Calendar of Office Hours </a> </b> <br />
+      </p>
+      <p><b><a href="handouts/224NProjectInfo.pdf">Project Guidelines</a></b></p>
+      <p><b><a href="https://docs.google.com/document/d/1wXHa1VgXlMAeFwf4H1KzuV70rm-Mddsiroy9YV580NM/edit?usp=sharing">2014
+      Project Ideas</a></b></p>
+      <p><b><a href="2013_projects.shtml">Last Year's Projects</a></b></p>
+      <p><b><a href="http://nlp.stanford.edu/courses/cs224n/">Past
+      Projects</a></b></p>
+      <p><b><a href="participation.shtml">Report Participation</a></b></p>
+      
+
+    </td>
+    <!-- end right bar -->
+
+  </tr>
+</table>
+
+
+<!-- END OF PAGE CONTENTS ----------------------------- //-->
+
+    <br/>
+    <table class="footer" border="0" width="100%" cellpadding="0">
+      <tr>
+        <td width="14"><p class="small">&nbsp;</p></td>
+        <td align="left">
+	</td>
+        <td align="right">
+          <p class="small">
+	    Site design by <a href="http://nlp.stanford.edu/~wcmac/">Bill MacCartney</a>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+
+

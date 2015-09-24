@@ -1,0 +1,160 @@
+body {
+	background-color: white;
+	background-image: url(img/backstripe.gif);
+	background-repeat: repeat-y;
+	margin-left: 30px;
+	margin-right: 0px;
+	margin-top: 0px;
+	font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+p {
+	font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+.small {
+	font-size: 10px;
+	line-height: 12px;
+}
+.p {
+	font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+.review {
+	color: green;
+}
+.border {
+	border: 1px solid #990000;
+}
+.bottomborder {
+	border-bottom: 1px solid #990000;
+}
+.indent {
+	margin-left: 3em;
+}
+table {
+	font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+th {
+	font-weight: bold;
+	color: #990000;	
+}
+ul	{
+	font-size: 12px;
+	line-height: 16px;
+}
+ul.nobullet {
+	list-style-type: none;
+}
+.spaced {
+        margin-top: 12px;
+}
+li.standalone {
+	font-size: 12px;
+	line-height: 16px;
+	list-style-position: outside;
+}
+dl	{
+	font-family: Lucida Sans, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+}
+dl.indent {
+	margin-left: 3em;
+}
+h1 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #990000;
+        padding-top: 5px;
+        border-top: solid;
+        border-top-width: 1px;
+}
+h2 {
+	font-size: 14px;
+	font-weight: bold;
+	color: #990000;
+	margin-top: 14px;
+}
+h3 {
+	font-size: 12px;
+	font-weight: bold;
+	color: #990000;
+	margin-top: 20px;
+	margin-bottom: 0em;
+}
+p.title {
+	font-family: Palatino, Georgia, Book Antiqua, serif;
+	font-size: 22px;
+	line-height: 24px;
+}
+table.navbar {
+	background-color: #F5EEC6;
+	margin-left: -9px;
+}
+.crimson { color: #990000; }
+.gray    { color: gray;    }
+.green   { color: green;   }
+p.navbar {
+	font-size: 12px;
+	font-weight: bold;
+	color: #990000;
+}
+table.footer {
+	margin-top: 10px;
+	margin-left: -9px;
+	border-top: solid;
+	border-top-width: 1px;
+}
+a:link {
+	text-decoration: none;
+	color: blue;
+}
+a:visited {
+	text-decoration: none;
+	color: #660099;
+}
+a:hover {
+	text-decoration: underline;
+}
+a[name]:hover {
+	text-decoration: inherit;
+	color: inherit; 
+	background: inherit
+}
+a:active {
+	text-decoration: none;
+}
+
+a.navbar:link {
+	text-decoration: none;
+	color: #990000;
+	background: #F5EEC6;
+}
+a.navbar:visited {
+	text-decoration: none;
+	color: #990000;
+	background: #F5EEC6;
+}
+a.navbar:hover {
+	text-decoration: underline;
+}
+a.navbar:active {
+	text-decoration: none;
+}
+a {
+	color: #003333;
+}
+.over {
+	color: #993300;
+}
+.faqdate {
+	font-size: 10px;
+	line-height: 12px;
+        color: gray;
+}

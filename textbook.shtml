@@ -1,0 +1,26 @@
+<!--#include virtual="header.html" -->
+    <!-- THE ACTUAL PAGE CONTENTS START HERE // -->
+
+    <br/>
+      <h1>Textbook and Readings</h1>
+    <p>The required text is:</p>
+    <p style="padding-left: 30px;">Daniel Jurafsky and James H. Martin. 2008. <em>Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics and Speech Recognition. Second Edition</em>. Prentice Hall.</p>
+    <ul>
+    <li>Buy it at the Stanford Bookstore or <a href="http://www.amazon.de/o/ASIN/0131873210/">Amazon</a>.</li>
+    </ul>
+    <p>Of course, we're also fond of:</p>
+    <p style="padding-left: 30px;">Christopher D. Manning and Hinrich Sch&uuml;tze. 1999. <em>Foundations of Statistical Natural Language Processing.</em> MIT Press.</p>
+    <ul>
+    <li>Buy it at the Stanford Bookstore or <a href="http://www.amazon.de/o/ASIN/0262133601/">Amazon</a>.</li>
+    <li><strong>You can read the text <a href="http://cognet.mit.edu/library/books/view?isbn=0262133601">online</a> from the Stanford network!</strong> It's referred to as M&amp;S in the syllabus. While a bit older, it also has good and often distinct coverage of many topics. Please see <a href="http://nlp.stanford.edu/fsnlp/">http://nlp.stanford.edu/fsnlp/</a> for supplementary information about the text, including errata, and pointers to online resources.</li>
+    </ul>
+    <p>Other useful reference texts for NLP are:</p>
+    <ul>
+    <li>Steven Bird. 2009. <em>Natural Language Processing with Python.</em> O'Reilly. (Free on <a href="http://searchworks.stanford.edu/view/8216334">SearchWorks</a>)</li>
+    <li>Philipp Koehn. 2010. <em>Statistical Machine Translation.</em> Cambridge.</li>
+    <li>Yoshua Bengio. 2009. <em>Learning Deep Architectures for AI.</em> Technical Report. (<a href="http://www.nowpublishers.com/product.aspx?product=MAL&amp;doi=2200000006">Free from Stanford network</a>)</li>
+    <li>Frederick Jelinek. 1998. <em>Statistical Methods for Speech Recognition.</em> MIT Press.</li>
+    <li>James Allen. 1995. <em>Natural Language Understanding.</em> Benjamin/Cummings, 2ed.</li>
+    </ul>
+    <p>Other papers with relevant material will be posted on the syllabus, as will lecture slides.</p>
+</body></html>
