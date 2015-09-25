@@ -250,12 +250,12 @@
 	      </ul>
             <em>Optional</em>:
             <ul>
-              <li>Good background reading: J&amp;M Ch. 1; M&amp;S 1.0-1.3, 4.1-4.2, <a href="grading.shtml">Collaboration Policy</a></li>
+              <li>Good background reading: J&amp;M Ch. 1; M&amp;S 1.0-1.3, 4.1-4.2. </li>
               <li>Unix text manipulation (useful
               skill!): <a href="https://courseware.stanford.edu/mod/file/download.php?file_guid=214487">Ken
               Church's tutorial Unix for Poets</a>
               or <a href="http://www.stanford.edu/class/cs124/lec/124-UnixForPoets.pdf">the
-              (more up-to-date!) cs124 version</a>.</li>
+              (more up-to-date!) CS124 version</a>.</li>
             </ul>
           </td>
         </tr>
@@ -294,19 +294,15 @@
       
       <em>Advanced:</em> 
       <ul>
-      <li>Robert C. Moore. 2004. <a href="http://www.aclweb.org/anthology/P04-1066">Improving IBM Word Alignment Model 1</a>. In ACL. </li>
-      <li>Robert C. Moore. 2005. <a href="http://www.mt-archive.info/ACL-2005-Moore.pdf">Association-Based Bilingual Word Alignment</a>. In ACL Workshop on Building and Using Parallel Texts.</li>
-      
-      
-      <li>Kristina Toutanova and Michael Galley. 2011. <a href="http://www.aclweb.org/anthology/P11-2081"> Why Initialization Matters for IBM Model 1: Multiple Optima and Non-Strict Convexity</a>. In ACL. </li>
-      <li>Chris Dyer, Victor Chahuneau and Noah A. Smith. 2013. <a href="http://aclweb.org/anthology//N/N13/N13-1073.pdf">A
-	      Simple, Fast, and Effective Reparameterization of IBM
-	      Model 2</a>. In NAACL. </li>
-      <li> Andrei Simion, Michael Collins and Cliff Stein. 2013. <a href = "http://www.cs.columbia.edu/~mcollins/papers/ibm2convex.pdf">A Convex Alternative to IBM Model 2</a>. In EMNLP.</li>
+      <li>Robert C. Moore. <a href="http://www.aclweb.org/anthology/P04-1066">Improving IBM Word Alignment Model 1</a>. In ACL 2004. </li>
+      <li>Robert C. Moore. 2005. <a href="http://www.mt-archive.info/ACL-2005-Moore.pdf">Association-Based Bilingual Word Alignment</a>. In ACL Workshop on Building and Using Parallel Texts 2005.</li>      
+      <li>Kristina Toutanova and Michael Galley. <a href="http://www.aclweb.org/anthology/P11-2081"> Why Initialization Matters for IBM Model 1: Multiple Optima and Non-Strict Convexity</a>. In ACL 2011. </li>
+      <li>Chris Dyer, Victor Chahuneau, and Noah A. Smith. <a href="http://aclweb.org/anthology//N/N13/N13-1073.pdf">A Simple, Fast, and Effective Reparameterization of IBM Model 2</a>. In NAACL 2013. </li>
+      <li> Andrei Simion, Michael Collins, and Cliff Stein. <a href = "http://www.cs.columbia.edu/~mcollins/papers/ibm2convex.pdf">A Convex Alternative to IBM Model 2</a>. In EMNLP 2013.</li>
 
-      <li> Douwe Gelling and Trevor Cohn. 2014. <a href="http://aclweb.org/anthology/P/P14/P14-2025.pdf"> Simple extensions for a reparameterised IBM Model 2</a>. In ACL.</li>
+      <li> Douwe Gelling and Trevor Cohn. <a href="http://aclweb.org/anthology/P/P14/P14-2025.pdf"> Simple extensions for a reparameterised IBM Model 2</a>. In ACL 2014.</li>
 
-      <li> Andrei Simion, Michael Collins and Cliff Stein. 2015. <a href = "http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP023.pdf"> On a Strictly Convex IBM Model 1</a>. In EMNLP.</li>
+      <li> Andrei Simion, Michael Collins, and Cliff Stein. <a href = "http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP023.pdf"> On a Strictly Convex IBM Model 1</a>. In EMNLP 2015g.</li>
       </ul>
       
       </td>
