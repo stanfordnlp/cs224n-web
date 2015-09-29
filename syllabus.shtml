@@ -294,15 +294,15 @@
       
       <em>Advanced:</em> 
       <ul>
-      <li>Robert C. Moore. <a href="http://www.aclweb.org/anthology/P04-1066">Improving IBM Word Alignment Model 1</a>. In ACL 2004. </li>
-      <li>Robert C. Moore. <a href="http://www.mt-archive.info/ACL-2005-Moore.pdf">Association-Based Bilingual Word Alignment</a>. In ACL Workshop on Building and Using Parallel Texts 2005.</li>      
-      <li>Kristina Toutanova and Michael Galley. <a href="http://www.aclweb.org/anthology/P11-2081"> Why Initialization Matters for IBM Model 1: Multiple Optima and Non-Strict Convexity</a>. In ACL 2011. </li>
-      <li>Chris Dyer, Victor Chahuneau, and Noah A. Smith. <a href="http://aclweb.org/anthology//N/N13/N13-1073.pdf">A Simple, Fast, and Effective Reparameterization of IBM Model 2</a>. In NAACL 2013. </li>
-      <li> Andrei Simion, Michael Collins, and Cliff Stein. <a href = "http://www.cs.columbia.edu/~mcollins/papers/ibm2convex.pdf">A Convex Alternative to IBM Model 2</a>. In EMNLP 2013.</li>
+      <li>Robert C. Moore. 2004. <a href="http://www.aclweb.org/anthology/P04-1066">Improving IBM Word Alignment Model 1</a>. In ACL. </li>
+      <li>Robert C. Moore. 2005. <a href="http://www.mt-archive.info/ACL-2005-Moore.pdf">Association-Based Bilingual Word Alignment</a>. In ACL Workshop on Building and Using Parallel Texts.</li>      
+      <li>Kristina Toutanova and Michael Galley. 2011. <a href="http://www.aclweb.org/anthology/P11-2081"> Why Initialization Matters for IBM Model 1: Multiple Optima and Non-Strict Convexity</a>. In ACL. </li>
+      <li>Chris Dyer, Victor Chahuneau, and Noah A. Smith. 2013. <a href="http://aclweb.org/anthology//N/N13/N13-1073.pdf">A Simple, Fast, and Effective Reparameterization of IBM Model 2</a>. In NAACL. </li>
+      <li> Andrei Simion, Michael Collins, and Cliff Stein. 2013. <a href = "http://www.cs.columbia.edu/~mcollins/papers/ibm2convex.pdf">A Convex Alternative to IBM Model 2</a>. In EMNLP.</li>
 
-      <li> Douwe Gelling and Trevor Cohn. <a href="http://aclweb.org/anthology/P/P14/P14-2025.pdf"> Simple extensions for a reparameterised IBM Model 2</a>. In ACL 2014.</li>
+      <li> Douwe Gelling and Trevor Cohn. 2014. <a href="http://aclweb.org/anthology/P/P14/P14-2025.pdf"> Simple extensions for a reparameterised IBM Model 2</a>. In ACL.</li>
 
-      <li> Andrei Simion, Michael Collins, and Cliff Stein. <a href = "http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP023.pdf"> On a Strictly Convex IBM Model 1</a>. In EMNLP 2015.</li>
+      <li> Andrei Simion, Michael Collins, and Cliff Stein. 2015. <a href = "http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP023.pdf"> On a Strictly Convex IBM Model 1</a>. In EMNLP.</li>
       </ul>
       
       </td>
@@ -330,10 +330,9 @@
             </ul>
 	    <em>Optional:</em> 
 	    <ul>
-      <li>Ulrich Germann, Michael Jahr, Kevin Knight, Daniel Marcu, and Kenji Yamada. 2001. <a href="http://aclweb.org/anthology//P/P01/P01-1030.pdf">Fast Decoding and Optimal Decoding for Machine Translation</a>. ACL.</li>
+      <li>Ulrich Germann, Michael Jahr, Kevin Knight, Daniel Marcu, and Kenji Yamada. 2001. <a href="http://aclweb.org/anthology//P/P01/P01-1030.pdf">Fast Decoding and Optimal Decoding for Machine Translation</a>. In ACL.</li>
       <li>Adam
-      Lopez. 2008. <a href="http://www.cs.jhu.edu/~alopez/papers/survey.pdf">Statistical
-      Machine Translation</a>. <i>ACM Computing Surveys</i> 40(3).
+      Lopez. 2008. <a href="http://www.cs.jhu.edu/~alopez/papers/survey.pdf">Statistical Machine Translation</a>. In <em>ACM Computing Surveys</em> 40(3).
       </ul>
          </td>
         </tr>
@@ -356,9 +355,9 @@
 
 	    <em>Optional:</em> 
 	    <ul>
-      <li>Franz Josef Och, Hermann Ney. 2004. <a href="http://www.aclweb.org/anthology-new/J/J04/J04-4002.pdf">The alignment template approach to statistical machine translation.</a> <em>Computational Linguistics</em> 30(4): 417-449.</li>
-      <li>K. Yamada and K. Knight. 2002. <a href="http://www.isi.edu/natural-language/projects/rewrite/syndec.ps">A Decoder for Syntax-Based Statistical MT</a>. ACL. 
-      <li>David Chiang. 2005. <a href="http://www.aclweb.org/anthology/P05-1033">A hierarchical phrase-based model for statistical machine translation</a>. ACL 2005, pages 263-270.</li>
+      <li>Franz Josef Och and Hermann Ney. 2004. <a href="http://www.aclweb.org/anthology-new/J/J04/J04-4002.pdf">The alignment template approach to statistical machine translation</a>. In <em>Computational Linguistics</em> 30(4). </li>
+      <li>Kenji Yamada and Kevin Knight. 2002. <a href="http://www.aclweb.org/anthology/P02-1039">A Decoder for Syntax-Based Statistical MT</a>. In ACL. 
+      <li>David Chiang. 2005. <a href="http://www.aclweb.org/anthology/P05-1033">A hierarchical phrase-based model for statistical machine translation</a>. In ACL.</li>
       </ul>
          </td>
         </tr>
@@ -393,7 +392,7 @@
             <ul>
             <li>(advanced) <a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/goodman-2001.pdf">Joshua Goodman (2001), A Bit of Progress in Language Modeling, Extended Version.</a></li>
             <li>(advanced) <a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/chen-1998.pdf">Stanley Chen and Joshua Goodman (1998), An empirical study of smoothing techniques for language modeling.</a></li>
-            <li>(very advanced) <a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/teh-2006.pdf">Teh, Yee Whye. 2006. A Hierarchical Bayesian Language Model based on Pitman-Yor Processes.</a> EMNLP 2006.</li>
+            <li>(very advanced) Yee Whye Teh. 2006. <a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/teh-2006.pdf">A Hierarchical Bayesian Language Model based on Pitman-Yor Processes</a>. In EMNLP.</li>
             </ul>
           </td>
         </tr>
@@ -451,7 +450,7 @@
   	        </ul>
             <em>Background:</em>
             <ul>
-              <li>Dan Klein and Christopher D. Manning. 2003. <a href="http://nlp.stanford.edu/pubs/unlexicalized-parsing.pdf">Accurate Unlexicalized Parsing.</a> ACL 2003, pp. 423-430.</li>
+              <li>Dan Klein and Christopher D. Manning. 2003. <a href="http://nlp.stanford.edu/pubs/unlexicalized-parsing.pdf">Accurate Unlexicalized Parsing.</a> In ACL.</li>
             </ul>
           </td>
         </tr>
@@ -472,10 +471,10 @@
   	        </ul>
   	        <em>Optional:</em>
   	        <ul>
-              <li>Eugene Charniak (1997), <a href="http://www.cs.brown.edu/people/ec/papers/aimag97.ps">Statistical techniques for natural language parsing</a>, <em>AI Magazine</em>.</li>
-              <li>Eugene Charniak (1997), <a href="http://www.cs.brown.edu/people/ec/papers/aaai97.ps">Statistical parsing with a context-free grammar and word statistics</a>, <em>Proceedings of the Fourteenth National Conference on Artificial Intelligence</em>. AAAI Press/MIT Press, Menlo Park (1997).</li>
-              <li>Eugene Charniak (2000), <a href="http://www.cs.brown.edu/people/ec/papers/shortMeP.ps.gz">A Maximum-Entropy-Inspired Parser</a>, <em>Proceedings of NAACL-2000</em>.</li>
-              <li>Slav Petrov, Leon Barrett, Romain Thibaux and Dan Klein. <a href="http://www.petrovi.de/data/acl06.pdf">Learning Accurate, Compact, and Interpretable Tree Annotation</a>. COLING/ACL 2006</li>
+              <li>Eugene Charniak. 1997. <a href="http://bllip.cs.brown.edu/papers/charniak97statistical.pdf">Statistical techniques for natural language parsing</a>. In <em>AI Magazine</em>.</li>
+              <li>Eugene Charniak. 1997. <a href="http://www.ai.mit.edu/courses/6.891-nlp/aaai97.pdf">Statistical parsing with a context-free grammar and word statistics</a>. In AAAI. </li>
+              <li>Eugene Charniak. 2000. <a href="http://www.ling.upenn.edu/courses/cogs502/CharniakNAACL2000.pdf">A Maximum-Entropy-Inspired Parser</a>. In NAACL.</li>
+              <li>Slav Petrov, Leon Barrett, Romain Thibaux and Dan Klein. 2006. <a href="http://www.petrovi.de/data/acl06.pdf">Learning Accurate, Compact, and Interpretable Tree Annotation</a>. In COLING/ACL.</li>
             </ul>
             
           </td>
