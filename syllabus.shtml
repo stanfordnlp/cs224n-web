@@ -235,7 +235,7 @@
       <table class="p" width="100%" cellpadding="10">
 
         <tr valign="top">
-          <td width="75"><a name="lec1"><strong>Lecture 1</strong><br/>Mon<br/>
+          <td width="75"><a name="lec1"><strong>Lecture 1</strong><br/>Tue<br/>
           9/22/15</a></td>
           <td>
             <strong>Course Introduction and Administration. Overview of NLP. Statistical Machine Translation.</strong> 
@@ -266,7 +266,7 @@
       <table class="p" width="100%" cellpadding="10">
 
         <tr valign="top">
-          <td width="75"><a name="lec2"><strong>Lecture 2</strong><br/>Wed<br/>
+          <td width="75"><a name="lec2"><strong>Lecture 2</strong><br/>Thu<br/>
           9/24/15</a></td>
           <td>
             <strong>Word Alignment Models for Statistical MT</strong>
@@ -313,7 +313,7 @@
 
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><a name="lec3"><strong>Lecture 3</strong><br/>Mon<br/>
+          <td width="75"><a name="lec3"><strong>Lecture 3</strong><br/>Tue<br/>
           9/29/15</a></td>
           <td>
             <strong>Machine Translation: Word Alignment, Parallel
@@ -343,7 +343,7 @@
       
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><a name="lec4"><strong>Lecture 4</strong><br/>Wed<br/>
+          <td width="75"><a name="lec4"><strong>Lecture 4</strong><br/>Thu<br/>
           10/1/15</a></td>
           <td>
             <strong>Modern MT Systems (Phrase-based, Syntactic) <!--, MT in the Translation Industry --></strong><br/>
@@ -366,7 +366,7 @@
       <a name="lec5"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 5</strong><br/>Mon<br/>
+          <td width="75"><strong>Lecture 5</strong><br/>Tue<br/>
           10/6/15</td>
           <td>
             <strong> N-Grams, Final Project Discussion</strong><br/><br/>
@@ -403,7 +403,7 @@
       <a name="lec6"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 6</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 6</strong><br/>Thu<br/>
           10/8/15</td>
           <td>
             <strong>Syntax and parsing</strong><br/><br/>
@@ -439,7 +439,7 @@
       <a name="lec7"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 7</strong><br/>Mon<br/>
+          <td width="75"><strong>Lecture 7</strong><br/>Tue<br/>
           10/13/15</td>
           <td>
             <strong>Competitive Grammar Writing I</strong><br/><br/>
@@ -461,7 +461,7 @@
       <a name="lec8"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 8</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 8</strong><br/>Thu<br/>
           10/15/15</td>
           <td>
             <strong>Competitive Grammar Writing II</strong><br/><br/>
@@ -487,7 +487,7 @@
       <a name="lec9"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 9</strong><br/>Mon<br/>
+          <td width="75"><strong>Lecture 9</strong><br/>Tue<br/>
           10/20/15</td>
           <td>
             <strong>Dependency Parsing</strong><br /><br />
@@ -517,7 +517,7 @@
       <a name="lec10"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 10</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 10</strong><br/>Thu<br/>
           10/22/15</td>
           <td>
             <strong>Coreference Resolution</strong><br /><br /> 
@@ -550,7 +550,7 @@
       <a name="lec11"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 11</strong><br/>Mon<br/>
+          <td width="75"><strong>Lecture 11</strong><br/>Tue<br/>
           10/27/15</td>
           <td>
             <strong>Coreference Resolution II</strong><br/><br/>
@@ -570,7 +570,7 @@
       <a name="lec12"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 12</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 12</strong><br/>Thu<br/>
           10/29/15</td>
           <td>
             <strong>MaxEnt Classifiers, Sequence Classifiers for
@@ -599,7 +599,7 @@
       <a name="lec13"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 13</strong><br/>Mon<br/>
+          <td width="75"><strong>Lecture 13</strong><br/>Tue<br/>
           11/3/15</td>
           <td>
             <strong>Kevin Knight - Language Translation and Code-Breaking</strong> <br /><br />
@@ -613,7 +613,7 @@
       <a name="lec14"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 14</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 14</strong><br/>Thu<br/>
           11/5/15</td>
           <td>
             <strong>Deep Learning for NLP</strong> <br/><br/>
@@ -636,7 +636,7 @@
        <a name="lec15"/>
         <table class="p" width="100%" cellpadding="10">
           <tr valign="top">
-            <td width="75"><strong>Lecture 15</strong><br/>Wed<br/>
+            <td width="75"><strong>Lecture 15</strong><br/>Thu<br/>
             11/10/15</td>
 
             <td>
@@ -657,7 +657,7 @@
       <a name="lec16"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 16</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 16</strong><br/>Thu<br/>
           11/12/15</td>
 
           <td>
@@ -678,7 +678,7 @@
       <a name="lec17"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 17</strong><br/>Mon<br/>
+          <td width="75"><strong>Lecture 17</strong><br/>Tue<br/>
           11/17/15</td>
           <td>
 	          <strong> Computational Semantics</strong><br/><br/>
@@ -709,7 +709,7 @@
       <a name="lec18"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 18</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 18</strong><br/>Thu<br/>
           11/19/15</td>
           <td>
             <strong>Computational Semantics</strong> <br/><br/>
@@ -740,7 +740,7 @@
       <a name="lec19"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 19</strong><br/>Mon<br/>
+          <td width="75"><strong>Lecture 19</strong><br/>Tue<br/>
           12/1/15</td>
           <td>
             <strong>Computational Semantics (continued)</strong><br/><br/>
@@ -763,7 +763,7 @@
       <a name="lec20"/>
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
-          <td width="75"><strong>Lecture 20</strong><br/>Wed<br/>
+          <td width="75"><strong>Lecture 20</strong><br/>Thu<br/>
           12/3/15</td>
           <td>
             <strong>Text-based Question Answering systems</strong><br/><br/>
@@ -791,19 +791,7 @@
         </tr>
       </table>
 
-      <!-- .............................................................. -->
-
-      <a name="fp"/>
-      <table class="p" width="100%" cellpadding="10">
-        <tr valign="top">
-          <td width="75">Wed<br/>12/10/15<br/>
-          <td>
-            <strong> Nothing scheduled!</strong>
-	    
-          </td>
-        </tr>
-      </table>
-
+      <!-- ................................................g.............. -->
 
 <!--
             <strong>Dialog &amp; Discourse Systems</strong>
