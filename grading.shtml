@@ -10,7 +10,13 @@
     <p>Finally, you will be rewarded for class participation. You may earn class participation credit for participating in class, attending coding sessions or office hours and answering questions on Piazza.</p>
     <p>In summary, the final grade will be computed as follows:
       <ul>
-	<li>80%--Programming assignments: The first three programming assignment will be worth 18% each of your final grade, and the final programming project or fourth programming assignment will be worth 26% of your grade. Due at 5:00pm on the assigned due date.</li>
+	<li>80%--Programming assignments: The first three programming
+	assignment will be worth 18% each of your final grade, and the
+	final programming project or fourth programming assignment will
+	be worth 26% of your grade. Due at 11:59pm on the assigned due
+	date. Special rule as some people take time to "warm up". If
+	your PA1 grade is lower than your later assignment grades, we
+	will replace it with the average of PA1, PA2, and PA3.</li>
 	<li>14%--Quizzes: 7 weekly quizzes/reading assignemnts will be
 	released on Thursday and due on the following Tuesday</li>
 	<li>6%--Participation: Broken down as 3% for completing the Competitive Grammar Writing exercise in class or at home and another 3% for general class participation.</li>
