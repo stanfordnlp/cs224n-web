@@ -202,7 +202,7 @@
 	<span class="crimson"><a href="#fp">Final project
         presentations 3:30-6:30pm</a></span>
         </td>
-        <td class="mar_off"><strong>Dec 4</strong></td>
+        <td class="mar_off"><strong>Dec 4</strong></td> <br/>
         </td>
       </tr>
 
@@ -210,21 +210,19 @@
         <td class="mar_on"><strong>Dec 7</strong>
        </td>
         <td class="mar_off"><strong>Dec 8</strong>
-<span style="float: right">
-          <span class="crimson">PA4 due</span>
-        </span>
        </td>
         <td class="mar_on"><strong>Dec 9</strong></td>
         <td class="mar_off"><strong>Dec 10</strong>
-	  <span style="float: right">
-            <span class="crimson">Hard deadline for final project and report</span>
-          </span>
 	</td>
         <td class="mar_off"><strong>Dec 11</strong>
 </td>
       </tr>
 
     </table>
+
+    <br/> <br/>
+    <span class="crimson">PA 4 due</span>: <strong>Dec 4</strong>. <br/>
+    <span class="crimson">Final project report due</span>: <strong>Dec 6</strong>.
 
       <!-- Real syllabus starts here -->
 
