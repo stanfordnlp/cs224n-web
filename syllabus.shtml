@@ -90,11 +90,11 @@
       <tr valign="top">
         <td class="jan_off"><strong>Oct 19</strong></td>
         <td class="jan_on"><strong>Oct 20</strong>
-          <span style="float: right">
-            <span class="crimson">Final project proposal due</span>
-          </span>
         <br/>
         <a href="#lec9">Lecture 9: Dependency Parsing</a>
+        <span style="float: right">
+        <span class="crimson">Final project proposal due</span>
+        </span>
         </td>
         <td class="feb_off"><strong>Oct 21</strong></td>
         <td class="feb_on"><strong>Oct 22</strong>
