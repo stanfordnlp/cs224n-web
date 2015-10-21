@@ -118,7 +118,7 @@
         </td>
         <td class="feb_off"><strong>Oct 28</strong></td>
         <td class="feb_on"><strong>Oct 29</strong><br />
-        <a href="#lec12">Lecture 12: MaxEnt Classifiers, Sequence Classifiers for NER</a>
+        <a href="#lec12">Lecture 12: Softmax/MaxEnt Classifiers</a>
         </td>
         <td class="feb_off"><strong>Oct 30</strong></td>
       </tr>
@@ -127,8 +127,7 @@
         <td class="feb_off"><strong>Nov 2</strong></td>
         <td class="feb_on"><strong>Nov 3</strong>
         <br/>
-        <a href="#lec13">Lecture 13: Kevin Knight's Lecture: Language
-        Translation and Code-Breaking</a>
+        <a href="#lec13">Lecture 13: Sequence Classifiers for POS/NER</a>
         </td>
         <td class="feb_off"><strong>Nov 4</strong>
         <td class="feb_on"><strong>Nov 5</strong>
@@ -193,14 +192,14 @@
         <td class="mar_off"><strong>Nov 30</strong><br/>
         <td class="mar_on"><strong>Dec 1</strong>
         <br/>
-        <a href="#lec17">Lecture 19: Computational Semantics (continued)</a>            
+        <a href="#lec17">Lecture 19: Final project presentations</a>            
         </td>
         <td class="mar_off"><strong>Dec 2</strong></td>
         <td class="mar_on"><strong>Dec 3</strong>
         <br/>
         <!--<a href="#lec18">Lecture 20: Text-based Question Answering systems</a>-->
 	<span class="crimson"><a href="#fp">Final project
-        presentations 3:30-6:30pm</a></span>
+        presentations</a></span>
         </td>
         <td class="mar_off"><strong>Dec 4</strong></td> <br/>
         </td>
@@ -504,8 +503,7 @@
               <em>Assignments</em>:
               <ul>
                 <li>Final Project Proposal Due.  
-		<a href="instructions.txt">Instructions</a></li>
-              </ul>
+	      </ul>
             </span>
             <em>Required:</em>
     	      <ul>
@@ -577,8 +575,7 @@
           <td width="75"><strong>Lecture 12</strong><br/>Thu<br/>
           10/29/15</td>
           <td>
-            <strong>MaxEnt Classifiers, Sequence Classifiers for
-            NER</strong> <br /><br />
+            <strong>Softmax/MaxEnt Classifiers</strong> <br /><br />
 
 <!--      <em>Lecture Slides Part 1:</em> --
   -- --
@@ -606,7 +603,7 @@
           <td width="75"><strong>Lecture 13</strong><br/>Tue<br/>
           11/3/15</td>
           <td>
-            <strong>Kevin Knight - Language Translation and Code-Breaking</strong> <br /><br />
+            <strong>Sequence Classifiers for POS/NER</strong> <br /><br />
 
           </td>
         </tr>
@@ -620,7 +617,7 @@
           <td width="75"><strong>Lecture 14</strong><br/>Thu<br/>
           11/5/15</td>
           <td>
-            <strong>Deep Learning for NLP</strong> <br/><br/>
+            <strong>Deep Learning for NLP: Motivations and word representations</strong> <br/><br/>
 
       <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1-6up.pdf">6-up</a>)<br/><br/>
 
@@ -747,22 +744,27 @@
           <td width="75"><strong>Lecture 19</strong><br/>Tue<br/>
           12/1/15</td>
           <td>
-            <strong>Computational Semantics (continued)</strong><br/><br/>
+            <strong>Computational Semantics and/or Final project presentations</strong><br/><br/>
       <em>Lecture Slides:</em>
-      second part (<a href="handouts/cl-semantics-slides-2012.pdf">1-up</a>);
       third part (<a href="handouts/afz-tutorial.acl.2013-learning.pdf">1-up</a>).
       Lecture slides: (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-computational-semantics.pdf">1-up</a>)
 
  <br/><br/>
-            <em>Required:</em>
-              <ul>
-                <li><a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/cl-semantics-new.pdf">An Introduction to Formal Computational Semantics</a></li>
-              </ul>
           </td>
         </tr>
       </table>
 
-      <!-- .............................................................. -->
+      <a name="lec20"/>
+      <table class="p" width="100%" cellpadding="10">
+        <tr valign="top">
+          <td width="75"><strong>Lecture 20</strong><br/>Tue<br/>
+          12/1/15</td>
+          <td>
+            <strong>Final project presentations</strong><br/><br/>
+          </td>
+        </tr>
+      </table>
+      <!-- .............................................................. 
 
       <a name="lec20"/>
       <table class="p" width="100%" cellpadding="10">
@@ -795,7 +797,7 @@
         </tr>
       </table>
 
-      <!-- ................................................g.............. -->
+       .............................................................. -->
 
 <!--
             <strong>Dialog &amp; Discourse Systems</strong>
