@@ -118,7 +118,7 @@
         </td>
         <td class="feb_off"><strong>Oct 28</strong></td>
         <td class="feb_on"><strong>Oct 29</strong><br />
-        <a href="#lec12">Lecture 12: Softmax/MaxEnt Classifiers</a>
+        <a href="#lec12">Lecture 12: Softmax / MaxEnt Classifiers</a>
         </td>
         <td class="feb_off"><strong>Oct 30</strong></td>
       </tr>
@@ -127,7 +127,7 @@
         <td class="feb_off"><strong>Nov 2</strong></td>
         <td class="feb_on"><strong>Nov 3</strong>
         <br/>
-        <a href="#lec13">Lecture 13: Sequence Classifiers for POS/NER</a>
+        <a href="#lec13">Lecture 13: Sequence Classifiers for POS / NER</a>
         </td>
         <td class="feb_off"><strong>Nov 4</strong>
         <td class="feb_on"><strong>Nov 5</strong>
@@ -192,29 +192,16 @@
         <td class="mar_off"><strong>Nov 30</strong><br/>
         <td class="mar_on"><strong>Dec 1</strong>
         <br/>
-        <a href="#lec17">Lecture 19: Final project presentations</a>            
+        Final project presentations            
         </td>
         <td class="mar_off"><strong>Dec 2</strong></td>
         <td class="mar_on"><strong>Dec 3</strong>
         <br/>
         <!--<a href="#lec18">Lecture 20: Text-based Question Answering systems</a>-->
-	<span class="crimson"><a href="#fp">Final project
-        presentations</a></span>
+	      <span class="crimson">Final project presentations</span>
         </td>
         <td class="mar_off"><strong>Dec 4</strong></td> <br/>
         </td>
-      </tr>
-
-      <tr valign="top">
-        <td class="mar_on"><strong>Dec 7</strong>
-       </td>
-        <td class="mar_off"><strong>Dec 8</strong>
-       </td>
-        <td class="mar_on"><strong>Dec 9</strong></td>
-        <td class="mar_off"><strong>Dec 10</strong>
-	</td>
-        <td class="mar_off"><strong>Dec 11</strong>
-</td>
       </tr>
 
     </table>
@@ -554,7 +541,7 @@
 
       <em>Lecture Slides:</em>
       (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture11-coreference.pdf">1-up</a>)
-      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture11-coreference-6up.pdf">6-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture11-coreference-6up.pdf">6-up</a>) <br>
       Intro to feature-based classifiers: (<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-FeatureClassifiers.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-FeatureClassifiers-6up.pdf">6-up</a>)<br/><br/>
       <br/><br/>
 
@@ -570,7 +557,7 @@
           <td width="75"><strong>Lecture 12</strong><br/>Thu<br/>
           10/29/15</td>
           <td>
-            <strong>Softmax/MaxEnt Classifiers</strong> <br /><br />
+            <strong>Softmax / MaxEnt Classifiers</strong> <br /><br />
 
 <!--      <em>Lecture Slides Part 1:</em> --
   -- --
@@ -598,7 +585,7 @@
           <td width="75"><strong>Lecture 13</strong><br/>Tue<br/>
           11/3/15</td>
           <td>
-            <strong>Sequence Classifiers for POS/NER</strong> <br /><br />
+            <strong>Sequence Classifiers for POS / NER</strong> <br /><br />
 
           </td>
         </tr>
@@ -620,7 +607,7 @@
               <em>Assignments</em>:
               <ul>
                 <li>PA3 Due</li>
-                <li>PA4 (Deep Learning Sequence Model) out</li>
+                <li>PA4 (Deep Learning Sequence Model or Dependency Parsing) out</li>
               </ul>
             </span>
           </td>
@@ -753,7 +740,7 @@
       <table class="p" width="100%" cellpadding="10">
         <tr valign="top">
           <td width="75"><strong>Lecture 20</strong><br/>Tue<br/>
-          12/1/15</td>
+          12/3/15</td>
           <td>
             <strong>Final project presentations</strong><br/><br/>
           </td>
