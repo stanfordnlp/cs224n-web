@@ -118,7 +118,7 @@
         </td>
         <td class="feb_off"><strong>Oct 28</strong></td>
         <td class="feb_on"><strong>Oct 29</strong><br />
-        <a href="#lec12">Lecture 12: Softmax / MaxEnt Classifiers</a>
+        <a href="#lec12">Lecture 12: Softmax / MaxEnt (Sequence) Classifiers</a>
         </td>
         <td class="feb_off"><strong>Oct 30</strong></td>
       </tr>
@@ -127,7 +127,8 @@
         <td class="feb_off"><strong>Nov 2</strong></td>
         <td class="feb_on"><strong>Nov 3</strong>
         <br/>
-        <a href="#lec13">Lecture 13: Sequence Classifiers for POS / NER</a>
+        <a href="#lec13">Lecture 13: Sequence Classifiers for POS / NER and Deep
+            Learning for NLP</a>
         </td>
         <td class="feb_off"><strong>Nov 4</strong>
         <td class="feb_on"><strong>Nov 5</strong>
@@ -557,7 +558,7 @@
           <td width="75"><strong>Lecture 12</strong><br/>Thu<br/>
           10/29/15</td>
           <td>
-            <strong>Softmax / MaxEnt Classifiers</strong> <br /><br />
+            <strong>Softmax / MaxEnt (Sequence) Classifiers</strong> <br /><br />
 
 <!--      <em>Lecture Slides Part 1:</em> --
   -- --
@@ -585,8 +586,14 @@
           <td width="75"><strong>Lecture 13</strong><br/>Tue<br/>
           11/3/15</td>
           <td>
-            <strong>Sequence Classifiers for POS / NER</strong> <br /><br />
+            <strong>Sequence Classifiers for POS / NER and Deep
+            Learning for NLP</strong> <br /><br />
 
+      <em>Lecture Slides:</em>
+        <ul>
+ <li> Maxent models continuation:(<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-Smoothing.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/MaxentTutorial-16x9-Smoothing-6up.pdf">6-up</a>)
+ <li> Intro to deep learning and word representations: (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1-6up.pdf">6-up</a>)
+ </ul>
           </td>
         </tr>
       </table>
