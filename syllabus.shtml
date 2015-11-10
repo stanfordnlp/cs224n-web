@@ -127,8 +127,8 @@
         <td class="feb_off"><strong>Nov 2</strong></td>
         <td class="feb_on"><strong>Nov 3</strong>
         <br/>
-        <a href="#lec13">Lecture 13: Sequence Classifiers for POS / NER and Deep
-            Learning for NLP</a>
+        <a href="#lec13">Lecture 13: Sequence Classifiers for POS &amp; NER / Deep
+            Learning for NLP: Motivations</a>
         </td>
         <td class="feb_off"><strong>Nov 4</strong>
         <td class="feb_on"><strong>Nov 5</strong>
@@ -136,7 +136,8 @@
           <span class="crimson">PA3 due</span>
         </span>
         <br/>
-        <a href="#lec14">Lecture 14: Deep Learning for NLP</a>
+        <a href="#lec14">Lecture 14: Deep Learning for NLP: Word
+        Representations &amp; NER</a>
         <span style="float: right">
           <span class="green">PA4 out</span>
         </span>
@@ -149,12 +150,14 @@
         <td class="feb_off"><strong>Nov 9</strong><br/>
         <td class="feb_on"><strong>Nov 10</strong>
 	<br/>
-        <a href="#lec15">Lecture 15: Deep Learning for NLP </a>
+        <a href="#lec15">Lecture 15: Deep Learning for NLP: Strategy
+        and Tree Recursive Neural Networks </a>
         </td>
         <td class="feb_off"><strong>Nov 11</strong></td>
         <td class="feb_on"><strong>Nov 12</strong>
         <br/>
-        <a href="#lec16">Lecture 16: Deep Learning for NLP</a>
+        <a href="#lec16">Lecture 16: Deep Learning for NLP: Recurrent
+        Neural Networks</a>
         </td>
         <td class="feb_off"><strong>Nov 13</strong></td>
         </td>
@@ -586,8 +589,8 @@
           <td width="75"><strong>Lecture 13</strong><br/>Tue<br/>
           11/3/15</td>
           <td>
-            <strong>Sequence Classifiers for POS / NER and Deep
-            Learning for NLP</strong> <br /><br />
+            <strong>Sequence Classifiers for POS &amp; NER / Deep
+            Learning for NLP: Motivations</strong> <br /><br />
 
       <em>Lecture Slides:</em>
         <ul>
@@ -606,9 +609,9 @@
           <td width="75"><strong>Lecture 14</strong><br/>Thu<br/>
           11/5/15</td>
           <td>
-            <strong>Deep Learning for NLP: Motivations and word representations</strong> <br/><br/>
+            <strong>Deep Learning for NLP: Word representations &amp; NER</strong> <br/><br/>
 
-      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture1-6up.pdf">6-up</a>)<br/><br/>
+      <em>Lecture Slides:</em> (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2.pdf">1-up</a>) (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2-6up.pdf">6-up</a>)<br/><br/>
 
             <span class="crimson">
               <em>Assignments</em>:
@@ -626,16 +629,31 @@
        <a name="lec15"/>
         <table class="p" width="100%" cellpadding="10">
           <tr valign="top">
-            <td width="75"><strong>Lecture 15</strong><br/>Thu<br/>
+            <td width="75"><strong>Lecture 15</strong><br/>Tue<br/>
             11/10/15</td>
 
             <td>
-            <strong> Deep Learning for NLP</strong><br /><br />
+            <strong> Deep Learning for NLP: Strategy &amp; Tree
+            Recursive Neural Networks</strong><br /><br />
 
-      <em>Lecture Slides:</em> see slides from previous 2 lectures
-<!--(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2.pdf">1-up</a>) --
-  --(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2-6up.pdf">6-up</a>) -->
+      <em>Lecture Slides:</em> 
+(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture3.pdf">1-up</a>) 
+(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture3-6up.pdf">6-up</a>)
 <br/><br/>
+	          <em>Optional reading:</em>
+	          <ul>
+		    <li>C. Olah. 2014-2015. <a href="http://colah.github.io/">colah's
+		    blog</a>. Online log. </li>
+		    <li>M. Nielsen. 2015. <a href="http://neuralnetworksanddeeplearning.com/">Neural
+		    Networks and Deep Learning</a>. Online. </li>
+		    <li>
+		    <li>Y. Goldberg. 2015. <a href="http://u.cs.biu.ac.il/~yogo/nnlp.pdf">A
+		    Primer on Neural Network Models for Natural Language
+		    Processing</a>. ms., Bar-Ilan University. </li>
+		    <li> Y. Bengio, I. J. Goodfellow and
+		    A. Courville. in press. <a href="http://goodfeli.github.io/dlbook/">Deep
+		    Learning</a>. ms., MIT Press. </li>
+	          </ul>
 
 
   	    <!-- In-class programming activity: /afs/ir/class/cs224n/lecture/11Nov -->
@@ -651,10 +669,10 @@
           11/12/15</td>
 
           <td>
-  	    <strong>Deep Learning for NLP</strong><br /><br />
+  	    <strong>Deep Learning for NLP: Recurrent Neural Networks</strong><br /><br />
 	    <em>Lecture Slides:</em>
-(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2.pdf">1-up</a>)
-(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture2-6up.pdf">6-up</a>)
+(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture4.pdf">1-up</a>)
+(<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture4-6up.pdf">6-up</a>)
 <!--
 	    (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-topic-models.pdf">1-up</a>) --
   --(<a href="http://www-nlp.stanford.edu/projects/dissertations/browser.html">Dissertation --
