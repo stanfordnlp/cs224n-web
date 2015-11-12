@@ -640,13 +640,15 @@
 (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture3.pdf">1-up</a>) 
 (<a href="http://www.stanford.edu/class/cs224n/handouts/CS224N_DeepNLP_Week7_lecture3-6up.pdf">6-up</a>)
 <br/><br/>
-	          <em>Optional reading:</em>
+	          <em>Optional reading (from easiest to hardest!):</em>
 	          <ul>
-		    <li>C. Olah. 2014-2015. <a href="http://colah.github.io/">colah's
-		    blog</a>. Online log. </li>
 		    <li>M. Nielsen. 2015. <a href="http://neuralnetworksanddeeplearning.com/">Neural
 		    Networks and Deep Learning</a>. Online. </li>
-		    <li>
+		    <li>C. Olah. 2014-2015. <a href="http://colah.github.io/">colah's
+		    blog</a>. Online blog. </li>
+		    <li>D. Britz. 2015. <a href="http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/">Wild
+		    ML: Recurrent Neural Networks Tutorial</a>. Online
+		    blog. </li>
 		    <li>Y. Goldberg. 2015. <a href="http://u.cs.biu.ac.il/~yogo/nnlp.pdf">A
 		    Primer on Neural Network Models for Natural Language
 		    Processing</a>. ms., Bar-Ilan University. </li>
