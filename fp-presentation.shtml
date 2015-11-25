@@ -1,0 +1,26 @@
+<!--#include virtual="header.html" -->
+    <!-- THE ACTUAL PAGE CONTENTS START HERE // -->
+
+    <br/>
+    <h1>Final Project Presentaitons</h1>
+    <h2>Lecture 19 (12/1/15, Tuesday)</h2>
+    <ol>
+    <li>lukedeo / alainez: <span class="crimson"> Sequential CNNs for Multi-Sentence Text Classification </span>></li>
+    <li>yuyan1: Indication of disease progression in radiology reports</li>
+    <li>cwind   / xiaoshiw / danyangw: Machine Comprehension with LSSVM and Feature Engineering</li>
+    <li>sjtang  / hanjiang: Pruning RNN models</li>
+    <li>yetian1 / jiyue: Let Computers Do Reading Comprehension</li>
+    <li>nihit / truongk / rgupta9: Predicting success on Kickstarter</li>
+    <li>ekyauk / aacharya / emjtang: Sentiment in Bilingual Speakers</li>
+    <li>arastogi: Context Encoding LSTM</li>
+    <li>justinkk: Video games for annotating NLI data</li>
+    <li>dmg1 / bogdanstate: Linguistic behaviour in relation to expertise</li>
+    <li>tianwang / bkgoksel / nokun: Reading comprehension</li>
+    <li>justinfu / dthirman: Medical Record Understanding</li>
+    <li>yilunw: Labelling Twitter users with personality</li>
+    <li>mrpeters / ulmerb / matthew0: Literary Social Network Extraction</li>
+    <li>asax / dmoore2: Adversarial examples to neural language modeling</li>
+    <li>danae: Exploring the “Dark Matter” of the Web</li>
+    <li>pmanion / daoying: Allen AI science challenge Kaggle</li>
+    </ol>
+</body></html>
