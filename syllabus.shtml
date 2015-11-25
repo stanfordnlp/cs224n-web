@@ -675,10 +675,6 @@
 	    <em>Lecture Slides:</em>
 (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture16-nmt.pdf">1-up</a>)
 (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture16-nmt-6up.pdf">6-up</a>)
-<!--
-	    (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-topic-models.pdf">1-up</a>) --
-  --(<a href="http://www-nlp.stanford.edu/projects/dissertations/browser.html">Dissertation --
-  --Browser</a>) -->
 	        </td>
 	      </tr>
 	    </table>
@@ -693,9 +689,16 @@
           <td>
 	          <strong> Computational Semantics</strong><br/><br/>
 <em>Lecture Slides:</em>
-      [<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics.pdf">1-up</a>]
-      [<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics-6up.pdf">6-up</a>]
+      [<a href="http://www.stanford.edu/class/cs224n/handouts/Computational-Semantics.pdf">1-up</a>]
+      [<a href="http://www.stanford.edu/class/cs224n/handouts/Computational-Semantics-6up.pdf">6-up</a>]
 <br/><br/>
+<em>Background links:</em>
+[<a href="http://www.dubberly.com/articles/how-the-knowledge-navigator-video-came-about.html">Background
+  on knowledge navigator</a>]
+[<a href="http://hci.stanford.edu/winograd/shrdlu/">SHRDLU</a>]
+[<a href="http://insidesearch.blogspot.com/2015/11/the-google-app-now-understands-you.html">Google
+  app 2015</a>]
+
 <!--      (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-computational-semantics.pdf">1-up</a>) -->
 </td>
         </tr>
@@ -724,14 +727,25 @@
           <td>
             <strong>Computational Semantics</strong> <br/><br/>
       <em>Lecture Slides:</em>
-      first part (<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics%202.pdf">1-up</a>)
-      (<a href="http://www.stanford.edu/class/cs224n/handouts/Computational%20Semantics%202-6up.pdf">6-up</a>);
-      second part (<a href="handouts/cl-semantics-slides-2012.pdf">1-up</a>).
+      first part (<a href="http://www.stanford.edu/class/cs224n/handouts/Computational-Semantics-2.pdf">1-up</a>)
+      (<a href="http://www.stanford.edu/class/cs224n/handouts/Computational-Semantics-2-6up.pdf">6-up</a>);
+      second part (<a href="handouts/cl-semantics-slides-2015.pdf">1-up</a>).
             <p>
             <em>Required:</em>
               <ul>
                 <li><a href="https://prod-c2g.s3.amazonaws.com/cs224n/Fall2012/files/cl-semantics-new.pdf">An Introduction to Formal Computational Semantics</a></li>
               </ul>
+	    <br><br>
+      <em>Lecture Slides:</em>
+      third part (<a href="handouts/afz-tutorial.acl.2013-learning.pdf">1-up</a>).
+      <!-- Lecture slides: (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-computational-semantics.pdf">1-up</a>) -->
+
+<!--
+	    (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-topic-models.pdf">1-up</a>) --
+  --(<a href="http://www-nlp.stanford.edu/projects/dissertations/browser.html">Dissertation --
+  --Browser</a>) -->
+
+
           </td>
  
         </tr>
@@ -753,10 +767,7 @@
           <td width="75"><strong>Lecture 19</strong><br/>Tue<br/>
           12/1/15</td>
           <td>
-            <strong>Computational Semantics and/or Final project presentations</strong><br/><br/>
-      <em>Lecture Slides:</em>
-      third part (<a href="handouts/afz-tutorial.acl.2013-learning.pdf">1-up</a>).
-      Lecture slides: (<a href="http://www.stanford.edu/class/cs224n/handouts/cs224n-lecture-computational-semantics.pdf">1-up</a>)
+            <strong>Final project presentations</strong><br/><br/>
 
  <br/><br/>
           </td>
