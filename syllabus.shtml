@@ -196,13 +196,13 @@
         <td class="mar_off"><strong>Nov 30</strong><br/>
         <td class="mar_on"><strong>Dec 1</strong>
         <br/>
-        Final project presentations            
+        <a href="#lec19">Final project presentations </a>            
         </td>
         <td class="mar_off"><strong>Dec 2</strong></td>
         <td class="mar_on"><strong>Dec 3</strong>
         <br/>
         <!--<a href="#lec18">Lecture 20: Text-based Question Answering systems</a>-->
-	      Final project presentations
+	      <a href="#lec20">Final project presentations </a>  
         </td>
         <td class="mar_off"><strong>Dec 4</strong></td> <br/>
         </td>
@@ -768,7 +768,7 @@
           12/1/15</td>
           <td>
             <strong>Final project presentations</strong><br/><br/>
-
+             <a href="fp-presentation.shtml">Schedule</a>
  <br/><br/>
           </td>
         </tr>
@@ -781,6 +781,7 @@
           12/3/15</td>
           <td>
             <strong>Final project presentations</strong><br/><br/>
+            <a href="fp-presentation.shtml">Schedule</a>
           </td>
         </tr>
       </table>
