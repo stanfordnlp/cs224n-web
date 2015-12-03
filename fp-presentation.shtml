@@ -28,23 +28,21 @@
 
     <h2>Lecture 20 (12/3/15, Thursday)</h2>
     <ol>
-    <li>onkursen / icaswell / anie: <em> Adversarial examples to neural language modeling </em></li>
-    <li>abisee: <em> Auto-resizing neural networks for machine translation </em></li>
-    <li>naveen67 / rshu15: <em> Annotation for word sense disambiguation </em></li>
-    <li>viswa / sameepb: <em> An Analysis of Editing Behaviour in Crowdfunding Campaigns and its Impact on Fundraising </em></li>
-    <li>tstand: <em> Neural sequence models to solve word sense disambiguation </em></li>
+    <li>onkursen / icaswell / anie: <em> Applying Adversarial Examples to Neural Language Modeling </em></li>
+    <li>abisee: <em> Exploiting Redundancy in Neural Machine Translation </em></li>
+    <li>naveen67 / rshu15: <em> Annotation for Word Sense Disambiguation </em></li>
+    <li>viswa / sameepb: <em> Editing Behavior on Kickstarter </em></li>
+    <li>tstand: <em> Neural Word Sense Disambiguation </em></li>
     <!--li>sunilsv / jieshen: <em> Allen AI science challenge </em></li-->
-    <li>klopyrev: <em> News summarization using neural networks </em></li>
-    <li>telin / dahuang: <em> AI Question Answering (and/or Reasoning) after Automated Comprehendly Reading </em></li>
-    <li>agong / jenylu: <em> Picking out good dishes from Yelp reviews? </em></li>
-    <li>ajchin / epatters: <em> Literary Social Network Extraction </em></li>
+    <li>klopyrev: <em> Generating News Headlines with RNNs </em></li>
+    <li>telin / dahuang: <em> AI-Complete Question Answering After Automated Comprehendly Reading </em></li>
+    <li>agong / jenylu: <em> Picking out Good Dishes from Yelp</em></li>
+    <li>ajchin / epatters: <em> Extracting Family Trees from Literary Texts </em></li>
     <li>jaycaz  / martinam / cdixit: <em> Large Scale Language Classification </em></li>
-    <li>aalifimoff / jli14: <em> Text Summarisation using Neural Networks </em></li>
-    <li>arushi  / pchase: <em> Dynamic Memory Networks for Reading Comprehension </em></li>
-    <li>qiaojing / wyixin: <em> Let Computers Do Reading Comprehension: Machine Comprehension of Mixed Approaches </em></li>
+    <li>qiaojing / wyixin: <em> Machine Comprehension using Syntactic Features </em></li>
     <li>lmurata: <em> An Attempt to Beat the Turing Test </em></li>
-    <li>vishesh: <em> Alignment Trees </em></li>
-
+    <li>vishesh: <em> Alignment Trees </em></li>    
+    <li>aalifimoff / jli14: <em> Abstractive Summarisation with Neural Networks </em></li>
     </ol>
 
 </body></html>
